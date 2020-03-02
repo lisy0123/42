@@ -6,7 +6,7 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/26 21:48:07 by sanlee            #+#    #+#             */
-/*   Updated: 2020/02/28 11:43:22 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/01 16:58:18 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,8 @@
 # define GET_NEXT_LINE_H
 # define BUFF_SIZE 32
 # include <unistd.h>
-# include <stdlib.h>
+# include <fcntl.h>
+# include <sys/types.h>
 
 int		get_next_line(const int fd, char **line);
 
