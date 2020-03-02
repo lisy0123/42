@@ -31,7 +31,7 @@ int					get_next_line(const int fd, char **line)
 		c[fd] = ft_strjoin(c[fd], buffer);
 		ft_strdel(&tmp);
 	}
-    // read error -1, 0
+    // read -1 0
 	if (a == -1 || !*(tmp = c[fd]))
 		return ((a == -1) ? -1 : 0);
 	if ((end = (ft_strchr(c[fd], '\n') > 0)))
