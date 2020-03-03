@@ -6,7 +6,7 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/26 20:46:15 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/02 15:58:59 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/02 16:28:40 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,6 +21,7 @@ int					get_next_line(const int fd, char **line)
 	ssize_t			a;
 	int				end;
 
+	// error
 	if (fd < 0 || !line || (!c[fd] && !(c[fd] = ft_strnew(1))))
 		return (-1);
 	while (!(ft_strchr(c[fd], '\n')) && (a = read(fd, buffer, BUFF_SIZE)) > 0)
@@ -30,14 +31,18 @@ int					get_next_line(const int fd, char **line)
 		c[fd] = ft_strjoin(c[fd], buffer);
 		ft_strdel(&tmp);
 	}
+	// read error & EOF
 	if (a == -1 || !*(tmp = c[fd]))
 		return ((a == -1) ? -1 : 0);
+	// line
 	if ((end = (ft_strchr(c[fd], '\n') > 0)))
 		*line = ft_strsub(c[fd], 0, (size_t)(ft_strchr(c[fd], '\n') - c[fd]));
 	else
 		*line = ft_strdup(c[fd]);
+	// for next
 	c[fd] = ft_strsub(c[fd], (unsigned int)(ft_strlen(*line) + end),
 			(size_t)(ft_strlen(c[fd]) - (ft_strlen(*line) + end)));
 	ft_strdel(&tmp);
+	// return (1);
 	return (!(!c[fd] && !ft_strlen(*line)));
 }
