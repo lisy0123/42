@@ -40,19 +40,19 @@ int				get_next_line(const int fd, char **line)
 {
 	int			a;
 	static char	*c[2147483647];
-	char		buff[BUFF_SIZE + 1];
+	char		buffer[BUFF_SIZE + 1];
 	char		*tmp;
 
 	if (fd < 0 || line == NULL)
 		return (-1);
-	while ((a = read(fd, buff, BUFF_SIZE)) > 0)
+	while ((a = read(fd, buffer, BUFF_SIZE)) > 0)
 	{
-		buff[a] = '\0';
+		buffer[a] = '\0';
 		if (c[fd] == NULL)
-			c[fd] = ft_strdup(buff);													
+			c[fd] = ft_strdup(buffer);													
 		else
 		{
-			tmp = ft_strjoin(c[fd], buff);
+			tmp = ft_strjoin(c[fd], buffer);
 			free(c[fd]);
 			c[fd] = tmp;
 		}
