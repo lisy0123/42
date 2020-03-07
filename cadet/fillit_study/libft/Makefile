@@ -5,19 +5,30 @@
 #                                                     +:+ +:+         +:+      #
 #    By: sanlee <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/03/04 14:00:37 by sanlee            #+#    #+#              #
-#    Updated: 2020/03/06 23:20:05 by sanlee           ###   ########.fr        #
+#    Created: 2020/02/20 08:13:24 by sanlee            #+#    #+#              #
+#    Updated: 2020/02/22 00:19:15 by sanlee           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-CC = gcc -Wall -Werror -Wextra
+NAME = libft.a
+SRCS = *.c
+OBJS = *.o
+HEADER = .
+CC = gcc -Wall -Wextra -Werror 
 
 .PHONY: all clean fclean re
 
-all:
+all: $(NAME)
 
-clean: 
+$(NAME):
+	@$(CC) -I $(HEADER) -c $(SRCS)
+	@ar -rscv $(NAME) $(OBJS)
+	@ranlib $(NAME)
+
+clean:
+	@/bin/rm -f $(OBJS)
 
 fclean: clean
+	@/bin/rm -f $(NAME)
 
 re: fclean all
