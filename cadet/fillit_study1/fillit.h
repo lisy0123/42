@@ -1,34 +1,62 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   fillit.h                                           :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/03/08 00:01:13 by sanlee            #+#    #+#             */
+/*   Updated: 2020/03/08 00:06:14 by sanlee           ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #ifndef FILLIT_H
 # define FILLIT_H
-# include <string.h>
-# include "libft.h"
 
-typedef struct	s_map
+# include "libft.h"
+# include <fcntl.h>
+
+# define CBLOCK '#'
+# define CEMPTY '.'
+
+# define ERR1 "usage: ./fillit source_file\n"
+# define ERR2 "error\n"
+
+typedef struct		s_coord
 {
+	int t;
+	int r;
+	int b;
+	int l;
+}					t_coord;
+
+typedef struct		s_piece
+{
+	int				x;
+	int				y;
+	int				width;
+	int				height;
+	char			**map;
+	char			letter;
+	struct s_piece	*next;
+}					t_piece;
+
+typedef struct		s_game
+{
+	t_piece		*pieces;
+	int			nb_pieces;
 	int			size;
-	char		**array;
-}				t_map;
-typedef struct	s_point
-{
-	int			x;
-	int			y;
-}				t_point;
-typedef struct	s_etris
-{
-	char		**pos;
-	int			width;
-	int			height;
-	char		value;
-}				t_etris;
-t_list			*read_tetri(int fd);
-void			print_map(t_map *map);
-void			free_map(t_map *map);
-t_map			*map_new(int size);
-int				place(t_etris *tetri, t_map *map, int x, int y);
-void			set_piece(t_etris *tetri, t_map *map, t_point *point, char c);
-t_map			*solve(t_list *list);
-t_point			*point_new(int x, int y);
-t_etris			*tetris_new(char **pos, int width, int height, char c);
-void			free_tetris(t_etris *tetri);
-t_list			*free_list(t_list *list);
+	char		**map;
+}					t_game;
+
+void				put_map(t_game *game);
+void				dp_error(int c);
+int					parse_file(t_game *game, char *file);
+int					init_game(t_game *game, char *file);
+void				store_block(t_game *game, char *buf);
+void				pushback_piece(t_game *game, t_piece *piece);
+void				solve(t_game *game);
+char				*buf_to_piece(char const *s, unsigned int start,
+						size_t len, char l);
+
 #endif
