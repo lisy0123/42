@@ -5,38 +5,33 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/03/05 14:28:27 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/05 15:07:15 by sanlee           ###   ########.fr       */
+/*   Created: 2020/03/09 14:21:02 by sanlee            #+#    #+#             */
+/*   Updated: 2020/03/09 15:21:21 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fillit.h"
 
-read_fd(int fd)
+void	error(int i)
 {
-}
-
-void	dsiplay(int fd)
-{
-	solve(read_fd(int fd));
+	if (i == 1)
+		ft_putstr(ERROR1);
+	else if (i == 2)
+		ft_putstr(ERROR2);
+	exit(1);
 }
 
 int		main(int ac, char **av)
 {
-	int	fd;
-
 	if (ac != 2)
 	{
-		ft_putstr("usage : fillit source file\n");
+		error(2);
 		return (0);
 	}
-	fd = open(av[1], O_RDONLY);
-	if (fd == -1)
+	if ()
 	{
-		ft_putstr("error\n");
-		return (0);
 	}
-	display(fd);
-	close(fd);
-	return (0);
+	else
+		error(1);
+	return (1);
 }

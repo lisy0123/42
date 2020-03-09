@@ -10,7 +10,8 @@ $(NAME): lib $(OBJS)
 	$(CC) $(CFLAGS) -o $(NAME) $(OBJS) -L libft -lft
 
 $(OBJS):
-	$(CC) $(CFLAGS) -c $(SRCS) -I. -Ilibft/
+	
+	(CC) $(CFLAGS) -c $(SRCS) -I. -Ilibft/
 
 lib:
 	make -C libft

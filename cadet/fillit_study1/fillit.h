@@ -6,14 +6,14 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/08 00:01:13 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/08 00:09:47 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/09 14:31:53 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FILLIT_H
 # define FILLIT_H
 
-# include "libft.h"
+# include "libft/libft.h"
 # include <fcntl.h>
 
 # define CBLOCK '#'
