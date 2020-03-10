@@ -6,15 +6,11 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/08 00:00:38 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/08 00:07:19 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/10 03:48:18 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fillit.h"
-
-/*
-** check da fucking CHAR if its a GOOD ONE or NOT! BROW
-*/
 
 static int		is_validchar(int c, int i)
 {
@@ -23,10 +19,6 @@ static int		is_validchar(int c, int i)
 		return (1);
 	return (0);
 }
-
-/*
-** check da neighboorhood to know if its a valid tetriminos BRO'
-*/
 
 static int		check_neighbourhood(char *buf, int i)
 {
@@ -48,10 +40,6 @@ static int		check_neighbourhood(char *buf, int i)
 	}
 	return (res + check_neighbourhood(buf, ++i));
 }
-
-/*
-** check da block !
-*/
 
 static int		check_block(char *buf)
 {
@@ -80,10 +68,6 @@ static int		check_block(char *buf)
 		dp_error(2);
 	return (0);
 }
-
-/*
-** loop through the file to get each block
-*/
 
 int				parse_file(t_game *game, char *file)
 {

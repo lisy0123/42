@@ -1,29 +1,37 @@
-NAME=fillit
-CC=gcc
-CFLAGS=-Wall -Wextra -Werror
-SRCS=*.c
-OBJS=*.o
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: sanlee <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/03/09 19:11:38 by sanlee            #+#    #+#              #
+#    Updated: 2020/03/09 20:45:25 by sanlee           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+NAME = fillit
+CC = gcc -Wall -Werror -Wextra
+SRCS = *.c
+OBJS = *.o ./libft/*.o
+HEADER = .
+LIB = ./libft/*.c
+
+.PHONY: all clean fclean re
 
 all: $(NAME)
 
-$(NAME): lib $(OBJS)
-	$(CC) $(CFLAGS) -o $(NAME) $(OBJS) -L libft -lft
+$(NAME): 
+	@make -C ./libft
+	@$(CC) -c $(SRCS) -I$(HEADER) 
+	@$(CC) -o $(NAME) $(OBJS)
 
-$(OBJS):
-	
-	(CC) $(CFLAGS) -c $(SRCS) -I. -Ilibft/
-
-lib:
-	make -C libft
-
-clean:
-	/bin/rm -rf $(OBJS)
-	make -C libft clean
+clean: 
+	@/bin/rm -f $(OBJS)
+	@make -C ./libft clean
 
 fclean: clean
-	/bin/rm -rf $(NAME)
-	make -C libft fclean
+	@/bin/rm -f $(NAME)
+	@make -C ./libft fclean
 
 re: fclean all
-
-.PHONY: clean fclean all re

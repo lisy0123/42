@@ -6,15 +6,11 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/08 00:00:55 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/09 14:30:18 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/09 20:27:38 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fillit.h"
-
-/*
-** used to print usage or error and exit the app.
-*/
 
 void			dp_error(int c)
 {

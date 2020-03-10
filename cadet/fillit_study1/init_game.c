@@ -6,7 +6,7 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/08 00:01:22 by sanlee            #+#    #+#             */
-/*   Updated: 2020/03/09 14:32:54 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/03/09 20:28:05 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,10 +39,6 @@ char			*buf_to_piece(char const *s, unsigned int start,
 	return (res);
 }
 
-/*
-** round numbers square root up buddy ! (Pay your Beer for that func!)
-*/
-
 static int		sqrt_ceil(int nb)
 {
 	int sol;
@@ -52,10 +48,6 @@ static int		sqrt_ceil(int nb)
 		sol++;
 	return (sol);
 }
-
-/*
-** set da DAMN map m8 !
-*/
 
 static int		set_map(t_game *game, int size)
 {
@@ -72,10 +64,6 @@ static int		set_map(t_game *game, int size)
 	}
 	return (1);
 }
-
-/*
-** get da game ready 2 g0 !
-*/
 
 int				init_game(t_game *game, char *file)
 {
