@@ -1,0 +1,5 @@
+.DS_Store
+.env
+update.sh
+dwld_subjects.rb
+src/
