@@ -34,7 +34,7 @@ Stack Overflow help me to figure out the way to solve projects and #pedahohys ar
 https://stackoverflow.com/questions/52037661/how-do-i-create-a-executable-with-a-make-file-in-c
 
 10. If your program is segfaulting and you can’t figure out why, what steps would you take?    
-DM @Iris
+Ask to friends and Google.
 
 11. Finally, where is Bocal?   
 Bocal is in the back of zone 2 and 3 through the door.
