@@ -1,0 +1,7 @@
+Credentials cache: API:38569
+        Principal: sanlee@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 22 18:05:53 2019  Oct 23 04:05:53 2019  krbtgt/42.US.ORG@42.US.ORG
+Oct 22 18:05:55 2019  Oct 23 04:05:53 2019  ldap/ldap-master.42.us.org@42.US.ORG
+Oct 22 18:23:32 2019  Oct 23 04:05:53 2019  host/vgs-fn1.42.us.org@42.US.ORG
