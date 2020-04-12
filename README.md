@@ -25,7 +25,7 @@
 |7|**ft_transcendence**|||||
 ||**Exam Rank 06**|||||
 
-## Cadet (Old curriculum) (Feb)
+## Cadet (Old curriculum) (18 Feb 20 - 11 )
 
 |Project|Language|Topics|Result|PDF|
 |:-|:-:|:-|:-:|:-|
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMj
-A5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbLTEwMTY1MjgxMzksLTY2MDU4NjU2OSwxMT
+c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
