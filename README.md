@@ -79,12 +79,12 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
 |Weekend|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
 |Weekend|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
-||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|00%||
+||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzI5MDI3LC03MzM5ODcxNywtMTIzOD
-U3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3
-LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMT
-E3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbLTEwMDcxMDI2OSwtNzMzOTg3MTcsLTEyMz
+g1NzQ3NzAsLTE3NTUwMjE2MDQsMjAyNzk2Mjg2LDIxMjk5Njg2
+NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LD
+ExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
