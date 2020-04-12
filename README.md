@@ -72,19 +72,19 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 07|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
 ||Day 08|`Program composition`|:o::o::x::o::o: :x::x:|10%|
 ||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|09%||
-|Weekend|Rush 01|`Recursive`, `Backtracking`|96/100|96|%|
+|Weekend|Rush 01|`Recursive`, `Backtracking`|96/100|96%||
 |Weekend|Match/Nmatch|`String Recursion`|:x::o:|00%||
-||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:||
-||Day 11|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:||
-||Day 12|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:||
-||Day 13|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:||
-|Weekend|Rush 02|`Makefile`, `Shape Detection`|100/100||
+||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
+||Day 11|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
+||Day 12|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
+||Day 13|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
+|Weekend|Rush 02|`Makefile`, `Shape Detection`|100/100|%||
 |Weekend|EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|:o:||
 |4|BSQ|`Makefile`, `Optimization algorithme`|:x::x:||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUzMDM2NjQsMjEyOTk2ODY3LC0xOT
-U3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3
-NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbNzEwMTk2ODQwLDIxMjk5Njg2NywtMTk1Nz
+U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
+MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
