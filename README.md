@@ -83,8 +83,8 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg1NzQ3NzAsLTczMzk4NzE3LC0xNz
-U1MDIxNjA0LDIwMjc5NjI4NiwyMTI5OTY4NjcsLTE5NTc1NDg2
-OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LD
-EyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbMTAxMDY4MDk1LC0xMjM4NTc0NzcwLC03Mz
+M5ODcxNywtMTc1NTAyMTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3
+LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMT
+E3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
 -->
