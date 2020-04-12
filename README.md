@@ -62,16 +62,19 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 |-|-|-|-|-|
 |1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
 ||Day 01|`Shell scripting`, `UNIX`|||
-||Day 02|`Loops`|||
-||Day 03|`Strings & Base conversions`|||
+||Day 02|`Loop`|||
+||Day 03|`String`, `Base conversion`|||
 ||Day 04|`Iteration`, `Recursion`, `Backtracking`|||
 ||Rush 00|`Pattern printing`|||
-||Day 05|`Strings & Base conversions`|||
-||Day 06|`Libraries`, `Sorting & Program composition`|||
-||Day 07|`Strings`, `Arrays`|||
+||Day 05|`Strings & Base conversion`|||
+||Day 06|`Library`, `Sorting`, `Program composition`|||
+||Day 07|`String`, `Array`|||
 ||Day 08|`Program composition`|||
-||Day 09|`Strings`, `Arrays`, `Shell scripting`, `Bit Manipulation`, `Data Structures`|||
-||Day 10|`Sori`, `Functional Programming`|||
+||Day 09|`String`, `Array`, `Shell scripting`, `Bit Manipulation`, `Data Structure`|||
+||Day 10|`Sorting`, `Program composition`, `Functional Programming`|||
+||Day 11|`Linked List`|||
+||Day 12|`File Manipulation`|||
+
 -   **Day 7**: Advanced Strings & Arrays
 -   **Day 8**: Program Composition
 -   **Day 9**: Arrays, Strings, Shell Scripting, Bit Manipulation, Data Structures etc.
@@ -95,7 +98,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEwNTgyNzksLTE5NTc1NDg2OTgsLT
+eyJoaXN0b3J5IjpbLTEzMDk1NjM1MTgsLTE5NTc1NDg2OTgsLT
 ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
 Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
