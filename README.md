@@ -56,7 +56,7 @@ Projects are slightly different.
 ## Piscine (Oct 2019)
 
 ### 4 weeks intensive workloads in a C programming language. 
-To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night c|oing. 
+To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
 ||Day|Topics|Evaluated by moulinette|Result|PDF|
 |-|-|-|-|:-:|-|
@@ -83,8 +83,11 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|00%||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
+
+Authors
+: Sangeun Lee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzk2Mjg2LDIxMjk5Njg2NywtMTk1Nz
-U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
-MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTYxODI4ODI2NywyMDI3OTYyODYsMjEyOT
+k2ODY3LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1
+NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
 -->
