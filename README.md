@@ -55,7 +55,9 @@ Projects are slightly different.
 
 ## Piscine (Oct 2019)
 
+4 weeks intensive workloads in a new programming language.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMT
-c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbLTE1NDA4Mjk2MjksLTExOTU4MTc5NTQsLT
+Y2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4
+NTc5XX0=
 -->
