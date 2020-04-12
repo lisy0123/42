@@ -74,8 +74,8 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 |[**Day 12**]|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%|[*d12.en.pdf*]|
 |[**Day 13**]|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%|[*d13.en.pdf*]|
 |[**Sastantua**]|`Pattern printing`|:o:|100%|[*sastantua.en.pdf*]|
-|[**Match/Nmatch**]|`String Recursion`|:x::o:|~~00%~~|[*matchnmatch.en.pdf*]|
-|[**EvalExpr**]|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%|[*evalexpr.en.pdf*]|
+|[**Match/nmatch**]|`String Recursion`|:x::o:|~~00%~~|[*matchnmatch.en.pdf*]|
+|[**Evalexpr**]|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%|[*evalexpr.en.pdf*]|
 |[**Rush 00**]|`Pattern printing`|-|100%|[*rush00.en.pdf*]|
 |[**Rush 01**]|`Recursive`, `Backtracking`|-|96%|[*rush01.en.pdf*]|
 |[**Rush 02**]|`Makefile`, `Shape Detection`|-|100%|[*rush02.en.pdf*]|
@@ -96,15 +96,15 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 [**Day 12**]: https://github.com/lisy0123/42/tree/master/Piscine/d12
 [**Day 13**]: https://github.com/lisy0123/42/tree/master/Piscine/d13
 [**Sastantua**]: https://github.com/lisy0123/42/tree/master/Piscine/sastantua
-[**Match/Nmatch**]: https://github.com/lisy0123/42/tree/master/Piscine/sastantua
-[**Eva*]: https://github.com/lisy0123/42/tree/master/Piscine/sastantua
+[**Match/nmatch**]: https://github.com/lisy0123/42/tree/master/Piscine/matchnmatch
+[**Evalexpr**]: https://github.com/lisy0123/42/tree/master/Piscine/evalexpr
 
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTkzMTUwNCwtMTMxMDc1OTQyMCwtMT
-AwNzEwMjY5LC03MzM5ODcxNywtMTIzODU3NDc3MCwtMTc1NTAy
-MTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3LC0xOTU3NTQ4Njk4LC
-0xMTk1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIw
-OTM5NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbLTEzMDU4MTQ3NDgsLTEzMTA3NTk0MjAsLT
+EwMDcxMDI2OSwtNzMzOTg3MTcsLTEyMzg1NzQ3NzAsLTE3NTUw
+MjE2MDQsMjAyNzk2Mjg2LDIxMjk5Njg2NywtMTk1NzU0ODY5OC
+wtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIy
+MDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
