@@ -65,7 +65,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 02|`Loop`|:x::x::o::x::o: :o::x::x:||
 ||Day 03|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:||
 ||Day 04|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:||
-|Weekend|Rush 00|`Pattern printing`|||
+|Weekend|Rush 00|`Pattern printing`|100/100||
 |Weekend|Sastantua|`Pattern printing`|:o:||
 ||Day 05|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:||
 ||Day 06|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:||
@@ -77,14 +77,14 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:||
 ||Day 11|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:||
 ||Day 12|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:||
-||Day 13|`Binary search tree`, `Red-Black tree`|||
+||Day 13|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:||
 |Weekend|Rush 02|`Makefile`, `Shape Detection`|||
 |Weekend|EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|:o:||
 |4|BSQ|`Makefile`, `Optimization algorithme`|||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MDk4NTU2LDIxMjk5Njg2NywtMTk1Nz
-U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
-MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTkzMDcyNTUwNywyMTI5OTY4NjcsLTE5NT
+c1NDg2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1
+MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
