@@ -60,7 +60,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day|Topics|Evaluated by moulinette|Result|PDF|
 |-|-|-|-|:-:|-|
 ||**Day 00**|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|<span style="color:red">05%</span>||
-||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|00%||
+||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|<span style="color:red">00%</span>||
 ||**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|00%||
 ||**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
 ||**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|00%||
