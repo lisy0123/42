@@ -64,16 +64,10 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 01|`Shell scripting`, `UNIX`|||
 ||Day 02|`Loops`|||
 ||Day 03|`Strings`, `Base conversions`|||
-||Day 04|`Iteration`, `Recursion`, `Backtracking`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+||Day 04|`Iteration`, `Recursion`, `Backtracking`|||
 ||Rush 00|`Pattern printing`|||
+||Rush 00|`Strings`|||
 
-
-
--   **Day 0**: Shell Scripting & UNIX
--   **Day 1**: Shell Scripting & UNIX
--   **Day 2**: Loops
--   **Day 3**: Strings & Base Conversions
--   **Day 4**: Iteration, Recursion & Backtracking
 -   **Day 5**: Strings & Base Conversions
 -   **Day 6**: Libraries, Sorting & Program Composition
 -   **Day 7**: Advanced Strings & Arrays
@@ -99,7 +93,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2OTA5NzAzLC0xOTU3NTQ4Njk4LC0xMT
+eyJoaXN0b3J5IjpbLTU5MTU0OTM0LC0xOTU3NTQ4Njk4LC0xMT
 k1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5
 NDksLTk3NjcyODU3OV19
 -->
