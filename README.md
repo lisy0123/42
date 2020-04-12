@@ -1,6 +1,11 @@
 # 42 Silicon Valley
 
+**[42 Silicon Valley]** is a 
+
+[[https://www.42.us.org/](https://www.42.us.org/)]
+
 ## Cadet (New curriculum) (13 Apr 2020 - )
+
 |Circle|Project|Language|Topics|Result|PDF|
 |:-:|:-|:-:|:-|:-:|:-|
 |1|**Libft**|||||
@@ -51,6 +56,6 @@ Projects are slightly different.
 ## Piscine (Oct 2019)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEwNTIyOTMsLTY2MDU4NjU2OSwxMT
+eyJoaXN0b3J5IjpbLTE3NDU0NTc1NDEsLTY2MDU4NjU2OSwxMT
 c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
