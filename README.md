@@ -1,10 +1,10 @@
 # 42 Silicon Valley
 
 ## Cadet (New curriculum)
-|Circle|Project|Language|Topics|Result|PDF|Status|
-|:-:|:-|:-:|:-|:-:|:-|:-:|
-|1|**Libft**||||||
-|2|**get_next_line**||||||
+|Circle|Project|Language|Topics|Result|PDF|
+|:-:|:-|:-:|:-|:-:|:-|
+|1|**Libft**|||||
+|2|**get_next_line**|||||
 ||**ft_printf**||||||
 ||**netwhat**||||||
 |3|**ft_server**||||||
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NjQ4NzI5LDExNzczNzUzMzYsMTIyMD
-kzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTEzNzIyMTEzMTgsMTE3NzM3NTMzNiwxMj
+IwOTM5NDksLTk3NjcyODU3OV19
 -->
