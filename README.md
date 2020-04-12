@@ -36,13 +36,13 @@ Projects are slightly different.
 Piscine
 ---
 
-|Project|Language|Result|PDF|Status|
-|:--|:--:|:--:|:--|:--:|
-|[ft_debut]|-|100/100|[ft_debut.en.pdf]|finish|
-|[libft]|C|124/125|[libft.en.pdf]|finish|
+|Project|Language|Result|Status|PDF|
+|:--|:--:|:--:|:--:|:--|
+|[ft_debut]|-|100/100|finish|[ft_debut.en.pdf]|
+|[libft]|C|124/125|finish|[libft.en.pdf]|
 |[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|100/100|C|[fillit.en.pdf]|finish|
+|[fillit]|C|100/100|[fillit.en.pdf]|finish|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTMzOTg4OF19
+eyJoaXN0b3J5IjpbLTExNzk2NzkxOTRdfQ==
 -->
