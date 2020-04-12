@@ -44,12 +44,13 @@
 [*get_next_line.en.pdf*]: https://github.com/lisy0123/42/blob/master/Cadet_old/PDF/get_next_line.en.pdf
 [*fillit.en.pdf*]: https://github.com/lisy0123/42/blob/master/Cadet_old/PDF/fillit.en.pdf
 
-It was converted into a remote study due to CVID-19, and at the same time it automatically changed to a new course, that have to start from the beginning, level 0. 
+It was converted into a remote study from 13 Apr 2020 due to CVID-19.
+At the same time it automatically changed to a new course, that have to start from the beginning, level 0. 
 Projects are slightly different.
 
 ## Piscine (Oct 2019)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjMxMzczMSwtNjYwNTg2NTY5LDExNz
-czNzUzMzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTIxNDEwNTIyOTMsLTY2MDU4NjU2OSwxMT
+c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
