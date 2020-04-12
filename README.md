@@ -63,14 +63,14 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 00|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|05%||
 ||Day 01|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|00%||
 ||Day 02|`Loop`|:x::x::o::x::o: :o::x::x:|00%||
-||Day 03|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:||
-||Day 04|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:||
-|Weekend|Rush 00|`Pattern printing`|100/100||
-|Weekend|Sastantua|`Pattern printing`|:o:||
-||Day 05|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:||
-||Day 06|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:||
-||Day 07|`String`, `Array`|:o::o::o::x::o: :x::x::x:||
-||Day 08|`Program composition`|:o::o::x::o::o: :x::x:||
+||Day 03|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
+||Day 04|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|00%||
+|Weekend|Rush 00|`Pattern printing`|100/100|100%||
+|Weekend|Sastantua|`Pattern printing`|:o:|100%||
+||Day 05|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%||
+||Day 06|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%||
+||Day 07|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
+||Day 08|`Program composition`|:o::o::x::o::o: :x::x:|10%|
 ||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:||
 |Weekend|Rush 01|`Recursive`, `Backtracking`|96/100||
 |Weekend|Match/Nmatch|`String Recursion`|:x::o:||
@@ -84,7 +84,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjY2MjY0MCwyMTI5OTY4NjcsLTE5NT
-c1NDg2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1
-MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbLTExMzIwMDY0MzMsMjEyOTk2ODY3LC0xOT
+U3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3
+NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
 -->
