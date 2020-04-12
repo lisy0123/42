@@ -9,7 +9,7 @@
 |[ft_debut]|-|-|100/100|[ft_debut.en.pdf]|finish|
 |[libft]|C|`Library`, `Makefile`, `Linked list`|124/125|[libft.en.pdf]|finish|
 |[get_next_line]|C|`File descriotor`, `Static variable`|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|C|`static variable`, `Backtracking`|100/100|[fillit.en.pdf]|finish|
+|[fillit]|C|`Tetriminos`, `Backtracking`|100/100|[fillit.en.pdf]|finish|
 
 [ft_debut]: https://github.com/lisy0123/42/tree/master/Cadet_old/ft_debut
 [libft]: https://github.com/lisy0123/42/tree/master/Cadet_old/libft
@@ -27,5 +27,5 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
