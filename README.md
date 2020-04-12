@@ -101,12 +101,13 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 [**Rush 00**]: https://github.com/lisy0123/42/tree/master/Piscine/rush00
 [**Rush 01**]: https://github.com/lisy0123/42/tree/master/Piscine/rush01
 [**Rush 02**]: https://github.com/lisy0123/42/tree/master/Piscine/rush02
+[**BSQ**]: https://github.com/lisy0123/42/tree/master/Piscine/bsq
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU1NjY4NDMsLTEzMTA3NTk0MjAsLT
-EwMDcxMDI2OSwtNzMzOTg3MTcsLTEyMzg1NzQ3NzAsLTE3NTUw
-MjE2MDQsMjAyNzk2Mjg2LDIxMjk5Njg2NywtMTk1NzU0ODY5OC
-wtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIy
-MDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbNDQwOTAyODE2LC0xMzEwNzU5NDIwLC0xMD
+A3MTAyNjksLTczMzk4NzE3LC0xMjM4NTc0NzcwLC0xNzU1MDIx
+NjA0LDIwMjc5NjI4NiwyMTI5OTY4NjcsLTE5NTc1NDg2OTgsLT
+ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
+Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
