@@ -74,16 +74,16 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 |**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%|[*d12.en.pdf*]|
 |**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%|[*d13.en.pdf*]|
 |**Sastantua**|`Pattern printing`|:o:|100%|[*sastantua.en.pdf*]|
-|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
-|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
-|**Rush 00**|`Pattern printing`|-|100%||
-|**Rush 01**|`Recursive`, `Backtracking`|-|96%||
-|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
+|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~|[*matchnmatch.en.pdf*]|
+|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%|[*evalexpr.en.pdf*]|
+|**Rush 00**|`Pattern printing`|-|100%|[*rush00.en.pdf*]|
+|**Rush 01**|`Recursive`, `Backtracking`|-|96%|[*rush01.en.pdf*]|
+|**Rush 02**|`Makefile`, `Shape Detection`|-|100%|[*rush02.en.pdf*]|
 |**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzMwMzk1MCwtMTAwNzEwMjY5LC03Mz
+eyJoaXN0b3J5IjpbMTYxMTE3MDIwOSwtMTAwNzEwMjY5LC03Mz
 M5ODcxNywtMTIzODU3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYy
 ODYsMjEyOTk2ODY3LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC
 02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3Njcy
