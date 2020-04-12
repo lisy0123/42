@@ -62,6 +62,20 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 |-|-|-|-|-|
 |1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
 ||Day 01|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+||Day 02|`Loops`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 03|`Strings`, `Base Conversions`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 04|`Iteration, Recursion & Backtracking`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+|1|Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+
 
 
 -   **Day 0**: Shell Scripting & UNIX
@@ -94,7 +108,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ3NDM1NjMsLTE5NTc1NDg2OTgsLT
-ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
-Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbLTYyMDY0MzAzMiwtMTk1NzU0ODY5OCwtMT
+E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
+OTQ5LC05NzY3Mjg1NzldfQ==
 -->
