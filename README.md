@@ -3,14 +3,14 @@
 ## Cadet (New curriculum)
 |Project|Language|Topics|Result|PDF|Status|
 |:-|:-:|:-|:-:|:-|:-:|
-|[**Libft**]||||||
-|[**get_next_line**]||||||
-ft_printf
-netwhat
-ft_server
-cub3d
-miniRT
-Exam Rank 02
+|**Libft**||||||
+|**get_next_line**||||||
+|ft_printf
+|netwhat
+|ft_server
+|cub3d
+|miniRT
+|Exam Rank 02
 ft_services
 minishell
 libasm
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3Nj
-cyODU3OV19
+eyJoaXN0b3J5IjpbMTE2OTM1OTk3OCwxMTc3Mzc1MzM2LDEyMj
+A5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
