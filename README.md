@@ -1,17 +1,9 @@
-42 Silicon Valley
-===
+#42 Silicon Valley
 
-Cadet (New curriculum)
----
-|Project|Language|Result|PDF|Status|
-|:--|:--:|:--:|:--|:--:|
-|[ft_debut]|-|100/100|[ft_debut.en.pdf]||
-|[libft]|C|124/125|[libft.en.pdf]||
-|get_next_line|C|125/125|[get_next_line.en.pdf]||
-||||||
+##Cadet (New curriculum)
 
 Cadet (Old curriculum)
----
+
 
 |Project|Language|Topics|Result|PDF|Status|
 |:--|:--:|:--|:--:|:--|:--:|
@@ -34,15 +26,7 @@ It was converted into a remote study due to CVID-19, and at the same time it aut
 Projects are slightly different.   
 
 Piscine
----
-
-|Project|Language|Result|Status|PDF|
-|:--|:--:|:--:|:--:|:--|
-|[ft_debut]|-|100/100|finish|[ft_debut.en.pdf]|
-|[libft]|C|124/125|finish|[libft.en.pdf]|
-|[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|C|100/100|[fillit.en.pdf]|finish|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk2NzkxOTRdfQ==
+eyJoaXN0b3J5IjpbLTg2OTc3MTEwXX0=
 -->
