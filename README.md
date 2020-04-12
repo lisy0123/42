@@ -81,13 +81,25 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 |[**Rush 02**]|`Makefile`, `Shape Detection`|-|100%|[*rush02.en.pdf*]|
 |[**BSQ**]|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~|[*bsq.en.pdf*]|
 
-[**Day 00**]: 
-
+[**Day 00**]: https://github.com/lisy0123/42/tree/master/Piscine/d00
+[**Day 01**]: https://github.com/lisy0123/42/tree/master/Piscine/d01
+[**Day 02**]: https://github.com/lisy0123/42/tree/master/Piscine/d02
+[**Day 03**]: https://github.com/lisy0123/42/tree/master/Piscine/d03
+[**Day 04**]: https://github.com/lisy0123/42/tree/master/Piscine/d04
+[**Day 05**]: https://github.com/lisy0123/42/tree/master/Piscine/d05
+[**Day 06**]: https://github.com/lisy0123/42/tree/master/Piscine/d06
+[**Day 07**]: https://github.com/lisy0123/42/tree/master/Piscine/d07
+[**Day 08**]: https://github.com/lisy0123/42/tree/master/Piscine/d09
+[**Day 09**]: https://github.com/lisy0123/42/tree/master/Piscine/d10
+[**Day 10**]: https://github.com/lisy0123/42/tree/master/Piscine/d11
+[**Day 11**]: https://github.com/lisy0123/42/tree/master/Piscine/d12
+[**Day 12**]: https://github.com/lisy0123/42/tree/master/Piscine/d13
+[**Day 13**]: https://github.com/lisy0123/42/tree/master/Piscine/d00
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA3NTk0MjAsLTEwMDcxMDI2OSwtNz
-MzOTg3MTcsLTEyMzg1NzQ3NzAsLTE3NTUwMjE2MDQsMjAyNzk2
-Mjg2LDIxMjk5Njg2NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NC
-wtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3
-Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbNTY3NDE1ODg2LC0xMzEwNzU5NDIwLC0xMD
+A3MTAyNjksLTczMzk4NzE3LC0xMjM4NTc0NzcwLC0xNzU1MDIx
+NjA0LDIwMjc5NjI4NiwyMTI5OTY4NjcsLTE5NTc1NDg2OTgsLT
+ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
+Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
