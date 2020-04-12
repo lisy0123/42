@@ -1,8 +1,8 @@
 # 42 Silicon Valley
 
-**[42 Silicon Valley]** is a 
+**[42 Silicon Valley]** is a college-level, tuition-free, computer programming school with a peer-to-peer learning environment.
 
-[[https://www.42.us.org/](https://www.42.us.org/)]
+[42 Silicon Valley]: https://www.42.us.org
 
 ## Cadet (New curriculum) (13 Apr 2020 - )
 
@@ -56,6 +56,6 @@ Projects are slightly different.
 ## Piscine (Oct 2019)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU0NTc1NDEsLTY2MDU4NjU2OSwxMT
+eyJoaXN0b3J5IjpbLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMT
 c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
