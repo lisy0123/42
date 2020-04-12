@@ -3,11 +3,8 @@
 ## Cadet (New curriculum)
 |Project|Language|Topics|Result|PDF|Status|
 |:-|:-:|:-|:-:|:-|:-:|
-|[**libft**]|-|-|100/100|[ft_debut.en.pdf]|finish|
-|[libft]|C|`Library`, `Makefile`, `Linked list`|124/125|[libft.en.pdf]|finish|
-|[get_next_line]|C|`File descriotor`, `Static variable`|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|C|`Tetriminos`, `Backtracking`, `Time complexity`|100/100|[fillit.en.pdf]|finish|
-
+|[**Libft**]||||||
+|[**get_next_line**]||||||
 ## Cadet (Old curriculum)
 
 |Project|Language|Topics|Result|PDF|Status|
@@ -33,6 +30,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA4MjcyNzEsMTIyMDkzOTQ5LC05Nz
+eyJoaXN0b3J5IjpbLTEyMDI4NTcyOTAsMTIyMDkzOTQ5LC05Nz
 Y3Mjg1NzldfQ==
 -->
