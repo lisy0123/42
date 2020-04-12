@@ -4,7 +4,7 @@
 
 ## Cadet (Old curriculum)
 
-|Project|Language|Topics(3)|Result|PDF|Status|
+|Project|Languages|Topics (3)|Result|PDF|Status|
 |:--|:--:|:--|:--:|:--|:--:|
 |[ft_debut]|-|-|100/100|[ft_debut.en.pdf]|finish|
 |[libft]|C|`Library`, `Makefile`, `Linked list`|124/125|[libft.en.pdf]|finish|
@@ -27,6 +27,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE3ODk3NDYsMTIyMDkzOTQ5LC05Nz
-Y3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbMTU1NTM3MTI5NywxMjIwOTM5NDksLTk3Nj
+cyODU3OV19
 -->
