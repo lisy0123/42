@@ -6,8 +6,8 @@
 
 |Project|Language|Topics|Result|PDF|Status|
 |:--|:--:|:--|:--:|:--|:--:|
-|[ft_debut]|-|=|100/100|[ft_debut.en.pdf]|finish|
-|[libft]|C||124/125|[libft.en.pdf]|finish|
+|[ft_debut]|-|-|100/100|[ft_debut.en.pdf]|finish|
+|[libft]|C|`library`, `Makefile`, `linked list`|124/125|[libft.en.pdf]|finish|
 |[get_next_line]|C||125/125|[get_next_line.en.pdf]|finish|
 |[fillit]|C||100/100|[fillit.en.pdf]|finish|
 
@@ -27,5 +27,5 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzgwMTY5OV19
+eyJoaXN0b3J5IjpbMTUzMzkyMzY2OV19
 -->
