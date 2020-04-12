@@ -43,3 +43,6 @@ Piscine
 |[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
 |[fillit]|100/100|C|[fillit.en.pdf]|finish|
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY2NTMzOTg4OF19
+-->
