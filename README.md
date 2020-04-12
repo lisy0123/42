@@ -70,11 +70,11 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 05|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:||
 ||Day 06|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:||
 ||Day 07|`String`, `Array`|:o::o::o::x::o: :x::x::x:||
-||Day 08|`Program composition`|:o::o::x::o::o: :x::x::o::x::x:||
-||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|||
+||Day 08|`Program composition`|:o::o::x::o::o: :x::x:||
+||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:||
 |Weekend|Rush 01|`Recursive`, `Backtracking`|||
 |Weekend|Match/Nmatch|`String Recursion`|||
-||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|||
+||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:||
 ||Day 11|`Linked list`|||
 ||Day 12|`Makefile`, `File manipulation`, `Program composition`|||
 ||Day 13|`Binary search tree`, `Red-Black tree`|||
@@ -84,7 +84,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIxNjgzNzMsMjEyOTk2ODY3LC0xOT
+eyJoaXN0b3J5IjpbLTEwNTIwMzAwMjUsMjEyOTk2ODY3LC0xOT
 U3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3
 NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
 -->
