@@ -72,19 +72,22 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~|
 ||**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
 |Weekend|**Rush 01**|`Recursive`, `Backtracking`|-|96%||
-|Weekend|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
-||**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
-||**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
-||**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
-||**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
-|Weekend|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
-|Weekend|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
-||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~||
+|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
+|**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
+|**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
+|**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
+|**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
+|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
+|**Rush 00**|`Pattern printing`|-|100%||
+|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
+|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
+|**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcxMDI2OSwtNzMzOTg3MTcsLTEyMz
-g1NzQ3NzAsLTE3NTUwMjE2MDQsMjAyNzk2Mjg2LDIxMjk5Njg2
-NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LD
-ExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbMTI3MzY4ODcwMCwtMTAwNzEwMjY5LC03Mz
+M5ODcxNywtMTIzODU3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYy
+ODYsMjEyOTk2ODY3LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC
+02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3Njcy
+ODU3OV19
 -->
