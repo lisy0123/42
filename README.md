@@ -59,9 +59,9 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 ||Day|Topics|Evaluated by moulinette|Result|PDF|
 |-|-|-|-|:-:|-|
-||**Day 00**|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|05%||
-||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|00%||
-||**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|00%||
+||**Day 00**|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|~~05%~~||
+||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~||
+||**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~||
 ||**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
 ||**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|00%||
 |Weekend|**Rush 00**|`Pattern printing`|-|100%||
@@ -83,8 +83,8 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzk4NzE3LC0xMjM4NTc0NzcwLC03Mz
-M5ODcxNywtMTc1NTAyMTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3
+eyJoaXN0b3J5IjpbNzUxMjg5NTM5LC03MzM5ODcxNywtMTIzOD
+U3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3
 LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMT
 E3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
 -->
