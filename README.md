@@ -73,13 +73,13 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 08|`Program composition`|||
 ||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|||
 ||Rush 01|`Recursive`, `Backtracking`|||
-||Rush 01|`Recursive`, `Backtracking`|||
+||Match/Nmatch|`String Recursion`|||
 |3|Day 10|`Sorting`, `Program composition`, `Functional programming`|||
 ||Day 11|`Linked list`|||
 ||Day 12|`File manipulation`, `Program composition`|||
 ||Day 13|`Binary search trees`, `Red-Black trees`|||
 ||Rush 02|`Shape Detection`|||
-||Sastantua|`Pattern printing`|||
+||EvalExpr|`Math Expression Evaluation`, `Basic syntax tree`|||
 
 
 
@@ -92,7 +92,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA0NDQ0MjMsLTE5NTc1NDg2OTgsLT
+eyJoaXN0b3J5IjpbLTE5NTgwNzUwODUsLTE5NTc1NDg2OTgsLT
 ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
 Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
