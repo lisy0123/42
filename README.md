@@ -57,11 +57,11 @@ Projects are slightly different.
 
 ### 4 weeks intensive workloads in a C programming language. 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coing. 
-It start with the basics in
+It start with the basics with vim, emac, 
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDU0NDc5LC0xOTU3NTQ4Njk4LC0xMT
-k1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5
-NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbMTc4MzkwMTU5NiwtMTk1NzU0ODY5OCwtMT
+E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
+OTQ5LC05NzY3Mjg1NzldfQ==
 -->
