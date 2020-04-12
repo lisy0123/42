@@ -77,14 +77,14 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
 ||**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
 ||**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
-||Day 13|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
-|Weekend|Rush 02|`Makefile`, `Shape Detection`|-|100%||
-|Weekend|EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
-||BSQ|`Makefile`, `Optimization algorithme`|:x::x:|00%||
+||**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
+|Weekend|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
+|Weekend|**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
+||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|00%||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjM1NTc3NCwyMTI5OTY4NjcsLTE5NT
-c1NDg2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1
-MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbMjAyNzk2Mjg2LDIxMjk5Njg2NywtMTk1Nz
+U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
+MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
