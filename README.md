@@ -57,11 +57,40 @@ Projects are slightly different.
 
 ### 4 weeks intensive workloads in a C programming language. 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coing. 
-It start with the basics with vim, emac, 
+
+-
+
+-   **Day 0**: Shell Scripting & UNIX
+-   **Day 1**: Shell Scripting & UNIX
+-   **Day 2**: Loops
+-   **Day 3**: Strings & Base Conversions
+-   **Day 4**: Iteration, Recursion & Backtracking
+-   **Day 5**: Strings & Base Conversions
+-   **Day 6**: Libraries, Sorting & Program Composition
+-   **Day 7**: Advanced Strings & Arrays
+-   **Day 8**: Program Composition
+-   **Day 9**: Arrays, Strings, Shell Scripting, Bit Manipulation, Data Structures etc.
+-   **Day 10**: Functional Programming, Sorting & Program Composition
+-   **Day 11**: Linked Lists
+-   **Day 12**: Files Manipulation & Advanced Program Composition
+-   **Day 13**: Binary Search Trees & Red-Black Trees
+
+#### [](https://github.com/samuelkarani/42-piscine-c#rushes)Rushes
+
+-   **Rush 0**: Pattern Printing
+-   **Rush 1**: Sudoku Solver i.e. Recursive Backtracking
+-   **Rush 2**: Shape Detection
+
+#### [](https://github.com/samuelkarani/42-piscine-c#projects)Projects
+
+-   **Sastantua**: Pattern Printing
+-   **Match/Nmatch**: String Recursion
+-   **EvalExpr**: Math Expression Evaluation & Basic Syntax Trees
+-   **BSQ**: Optimization Algorithm
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkwMTU5NiwtMTk1NzU0ODY5OCwtMT
-E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
-OTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTEwODc4Nzg3MTIsLTE5NTc1NDg2OTgsLT
+ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
+Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
