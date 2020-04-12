@@ -5,6 +5,18 @@
 |:-|:-:|:-|:-:|:-|:-:|
 |[**Libft**]||||||
 |[**get_next_line**]||||||
+ft_printf
+netwhat
+ft_server
+cub3d
+miniRT
+Exam Rank 02
+ft_services
+minishell
+libasm
+Exam Rank 03
+
+
 ## Cadet (Old curriculum)
 
 |Project|Language|Topics|Result|PDF|Status|
@@ -30,6 +42,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI4NTcyOTAsMTIyMDkzOTQ5LC05Nz
+eyJoaXN0b3J5IjpbLTEwMTkzNjE3NTgsMTIyMDkzOTQ5LC05Nz
 Y3Mjg1NzldfQ==
 -->
