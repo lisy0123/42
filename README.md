@@ -60,11 +60,11 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 ||Day|Topics|Result|PDF|
 |-|-|-|-|-|
-||Day 00|`Shell scripting`, `UNIX`|ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
+||Day 00|`Shell scripting`, `UNIX`|:o::x::o::ex01:OK ex02:KO ex03:OK ex04:OK ex05:KO ex06:KO ex07:OK ex08:OK ex09:KO ex10:KO||
 ||Day 01|`Shell scripting`, `UNIX`|ex01:KO ex02:KO ex03:KO ex04:KO ex05:OK ex06:KO ex07:KO ex08:Nothing turned in||
 ||Day 02|`Loop`|ex00:Does not compile ex01:Does not compile ex02:OK ex03:Does not compile ex04:OK ex05:OK ex06: KO ex07:KO||
 ||Day 03|`String`, `Base conversion`|ex00: OK ex01:OK ex02:OK ex03:OK ex04:OK ex05:OK ex06:Does not compile ex07:OK ex08:Nothing turned in ex09:Nothing turned in||
-||Day 04|`Iteration`, `Recursion`, `Backtracking`|||
+||Day 04|`Iteration`, `Recursion`, `Backtracking`|ex00:KO ex01:Does not compile ex02:Does not compile ex03:Does not compile ex04:OK ex05:OK ex06:OK ex07:OK ex08:Does not compile ex09:Nothing turned in||
 |Weekend|Rush 00|`Pattern printing`|||
 |Weekend|Sastantua|`Pattern printing`|||
 ||Day 05|`Strings & Base conversion`|||
@@ -84,7 +84,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDM3MTIwMiwyMTI5OTY4NjcsLTE5NT
+eyJoaXN0b3J5IjpbLTg1NjM1NjE5MSwyMTI5OTY4NjcsLTE5NT
 c1NDg2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1
 MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
