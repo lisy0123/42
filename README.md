@@ -15,7 +15,10 @@ ft_services
 minishell
 libasm
 Exam Rank 03
-
+Philosophers
+CPP Module 00 - 08
+Exam Rank 04
+Exam Rank 05
 
 ## Cadet (Old curriculum)
 
@@ -42,6 +45,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkzNjE3NTgsMTIyMDkzOTQ5LC05Nz
+eyJoaXN0b3J5IjpbLTExNjg2MzI5MDEsMTIyMDkzOTQ5LC05Nz
 Y3Mjg1NzldfQ==
 -->
