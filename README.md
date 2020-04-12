@@ -3,16 +3,22 @@
 
 Cadet (New curriculum)
 ---
+|Project|Language|Result|PDF|Status|
+|:--|:--:|:--:|:--|:--:|
+|[ft_debut]|-|100/100|[ft_debut.en.pdf]||
+|[libft]|C|124/125|[libft.en.pdf]||
+|get_next_line|C|125/125|[get_next_line.en.pdf]||
+||||||
 
 Cadet (Old curriculum)
 ---
 
-|Project|Result|PDF|Status|
-|:--|:--:|:--|:--|
-|[ft_debut]|100/100|[ft_debut.en.pdf]|finish|
-|[libft]|124/125|[libft.en.pdf]|finish|
-|[get_next_line]|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|100/100|[fillit.en.pdf]|finish|
+|Project|Language|Topics|Result|PDF|Status|
+|:--|:--:|:--|:--:|:--|:--:|
+|[ft_debut]|-||100/100|[ft_debut.en.pdf]|finish|
+|[libft]|C|124/125|[libft.en.pdf]|finish|
+|[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
+|[fillit]|100/100|C|[fillit.en.pdf]|finish|
 
 [ft_debut]: https://github.com/lisy0123/42/tree/master/Cadet_old/ft_debut
 [libft]: https://github.com/lisy0123/42/tree/master/Cadet_old/libft
@@ -29,3 +35,11 @@ Projects are slightly different.
 
 Piscine
 ---
+
+|Project|Language|Result|PDF|Status|
+|:--|:--:|:--:|:--|:--:|
+|[ft_debut]|-|100/100|[ft_debut.en.pdf]|finish|
+|[libft]|C|124/125|[libft.en.pdf]|finish|
+|[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
+|[fillit]|100/100|C|[fillit.en.pdf]|finish|
+
