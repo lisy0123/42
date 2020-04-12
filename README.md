@@ -83,11 +83,9 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|00%||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
-
-Authors
-: Sangeun Lee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODI4ODI2NywyMDI3OTYyODYsMjEyOT
-k2ODY3LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1
-NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbLTE3NTUwMjE2MDQsMjAyNzk2Mjg2LDIxMj
+k5Njg2NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2
+NTY5LDExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ
+==
 -->
