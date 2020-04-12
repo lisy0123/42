@@ -58,8 +58,8 @@ Projects are slightly different.
 ### 4 weeks intensive workloads in a C programming language. 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night c|oing. 
 
-||Day|Topics|Evalua|Result2|PDF|
-|-|-|-|-|-|-|
+||Day|Topics|Evaluated by moulinette|Result|PDF|
+|-|-|-|-|:-:|-|
 ||Day 00|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|05%||
 ||Day 01|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|00%||
 ||Day 02|`Loop`|:x::x::o::x::o: :o::x::x:|00%||
@@ -84,7 +84,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4OTgzODgyLDIxMjk5Njg2NywtMTk1Nz
-U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
-MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbNTgzNzE4MiwyMTI5OTY4NjcsLTE5NTc1ND
+g2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2
+LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
