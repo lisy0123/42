@@ -68,10 +68,10 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Rush 00|`Pattern printing`|||
 ||Day 05|`Strings & Base conversions`|||
 ||Day 06|`Libraries`, `Sorting & Program composition`|||
-||Day 07|`Advanced Strings`, `Arrays`|||
+||Day 07|`Strings`, `Arrays`|||
 ||Day 08|`Program composition`|||
-||Day 05|`Strings & Base conversions`|||
-
+||Day 09|`Strings`, `Arrays`, `Shell scripting`, `Bit Manipulation`, `Data Structures`|||
+||Day 10|`Sori`, `Functional Programming`|||
 -   **Day 7**: Advanced Strings & Arrays
 -   **Day 8**: Program Composition
 -   **Day 9**: Arrays, Strings, Shell Scripting, Bit Manipulation, Data Structures etc.
@@ -95,7 +95,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzQ1NzY2MCwtMTk1NzU0ODY5OCwtMT
-E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
-OTQ5LC05NzY3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbLTIwNTEwNTgyNzksLTE5NTc1NDg2OTgsLT
+ExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5
+Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
