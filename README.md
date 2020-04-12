@@ -36,7 +36,7 @@
 |:-|:-:|:-|:-:|:-|
 |[**ft_debut**]|-|-|100/100|[*ft_debut.en.pdf*]|
 |[**libft**]|C|`Library`, `Makefile`, `Linked list`|124/125|[*libft.en.pdf*]|
-|[**get_next_line**]|C|`File descriotor`, `Static variable`|125/125|[*get_next_line.en.pdf*]|
+|[**get_next_line**]|C|`File manipulation`, `Static variable`|125/125|[*get_next_line.en.pdf*]|
 |[**fillit**]|C|`Tetriminos`, `Backtracking`, `Time complexity`|100/100|[*fillit.en.pdf*]|
 
 [**ft_debut**]: https://github.com/lisy0123/42/tree/master/Cadet_old/ft_debut
@@ -70,21 +70,12 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 06|`Library`, `Sorting`, `Program composition`|||
 ||Day 07|`String`, `Array`|||
 ||Day 08|`Program composition`|||
-||Day 09|`String`, `Array`, `Shell scripting`, `Bit Manipulation`, `Data Structure`|||
-||Day 10|`Sorting`, `Program composition`, `Functional Programming`|||
-||Day 11|`Linked List`|||
-||Day 12|`File Manipulation`, `Program composition`|||
-||Day 05|`Binary Search Trees`, `Red-Black trees`|||
+||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|||
+||Day 10|`Sorting`, `Program composition`, `Functional programming`|||
+||Day 11|`Linked list`|||
+||Day 12|`File manipulation`, `Program composition`|||
+||Day 05|`Binary search trees`, `Red-Black trees`|||
 
--   **Day 7**: Advanced Strings & Arrays
--   **Day 8**: Program Composition
--   **Day 9**: Arrays, Strings, Shell Scripting, Bit Manipulation, Data Structures etc.
--   **Day 10**: Functional Programming, Sorting & Program Composition
--   **Day 11**: Linked Lists
--   **Day 12**: Files Manipulation & Advanced Program Composition
--   **Day 13**: Binary Search Trees & Red-Black Trees
-
-#### [](https://github.com/samuelkarani/42-piscine-c#rushes)Rushes
 
 -   **Rush 0**: Pattern Printing
 -   **Rush 1**: Sudoku Solver i.e. Recursive Backtracking
@@ -99,7 +90,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjQyNjU4MSwtMTk1NzU0ODY5OCwtMT
+eyJoaXN0b3J5IjpbMTcyNTc2MTM4NCwtMTk1NzU0ODY5OCwtMT
 E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
 OTQ5LC05NzY3Mjg1NzldfQ==
 -->
