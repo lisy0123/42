@@ -55,15 +55,14 @@ Projects are slightly different.
 
 ## Piscine (Oct 2019)
 
-###4 weeks intensive workloads in a C programming language.
-
-Your mission, should you choose to accept it, is to come and spend 4 weeks, 7 days a week, day and night, coding your heart out with over hundred other candidates all hoping to earn the same prize: become a full-time student at 42. Students must pass the piscine in order to apply to the complete 3-5 year 42 program.
+### 4 weeks intensive workloads in a C programming language. 
+To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coing
 
 We will start with the basics, and using a computer, you will write your first lines of code before moving on to more complex coding exercises. It won’t be necessary to have any previous programming experience. We simply ask that you know how to use a mouse and a keyboard.
 
 [LEARN MORE](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxODc0MjA0LC0xMTk1ODE3OTU0LC02Nj
-A1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3
-OV19
+eyJoaXN0b3J5IjpbLTEzMjM0ODAzOTEsLTExOTU4MTc5NTQsLT
+Y2MDU4NjU2OSwxMTc3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4
+NTc5XX0=
 -->
