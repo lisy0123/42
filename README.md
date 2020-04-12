@@ -1,21 +1,21 @@
 # 42 Silicon Valley
 
 ## Cadet (New curriculum)
-|Project|Language|Topics|Result|PDF|Status|
-|:-|:-:|:-|:-:|:-|:-:|
-|**Libft**||||||
-|**get_next_line**||||||
-|**ft_printf**||||||
-|**netwhat**||||||
-|**ft_server**||||||
-|**cub3d**||||||
-|**miniRT**||||||
-|**Exam Rank 02**||||||
-|**ft_services**||||||
-|**minishell**||||||
-|**libasm**||||||
-|**Exam Rank 03**||||||
-|**Philosophers**||||||
+|Circle|Project|Language|Topics|Result|PDF|Status|
+|:-:|:-|:-:|:-|:-:|:-|:-:|
+|1|**Libft**||||||
+|2|**get_next_line**||||||
+||**ft_printf**||||||
+||**netwhat**||||||
+|3|**ft_server**||||||
+||**cub3d**||||||
+||**miniRT**||||||
+||**Exam Rank 02**||||||
+|4|**ft_services**||||||
+||**minishell**||||||
+||**libasm**||||||
+||**Exam Rank 03**||||||
+||**Philosophers**||||||
 |**CPP Module 00 - 08**||||||
 |**Exam Rank 04**||||||
 |**ft_irc**||||||
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzQ4MzQxNiwxMTc3Mzc1MzM2LDEyMj
+eyJoaXN0b3J5IjpbMTAzMDgwNjIzOSwxMTc3Mzc1MzM2LDEyMj
 A5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
