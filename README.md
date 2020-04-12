@@ -82,9 +82,9 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||EvalExpr|`Math expression evaluation`, `Basic syntax tree`|||
 ||BSQ|`Optimization algorithme`|||
 
-[:book: Learn more about piscine](https://www.42.us.org/program/piscine)
+[:smile: :book: Learn more about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTU0ODA3OSwtMTk1NzU0ODY5OCwtMT
+eyJoaXN0b3J5IjpbLTE1Mjk3OTU3OSwtMTk1NzU0ODY5OCwtMT
 E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
 OTQ5LC05NzY3Mjg1NzldfQ==
 -->
