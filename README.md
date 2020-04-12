@@ -58,36 +58,34 @@ Projects are slightly different.
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
 ||Day|Topics|Evaluated by moulinette|Result|PDF|
-|-|-|-|-|:-:|-|
-||**Day 00**|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|~~05%~~||
-||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~||
-||**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~||
-||**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
-||**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|~~00%~~||
-|Weekend|**Rush 00**|`Pattern printing`|-|100%||
-|Weekend|**Sastantua**|`Pattern printing`|:o:|100%||
-||**Day 05**|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%||
-||**Day 06**|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%||
-||**Day 07**|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
-||**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~|
-||**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
-|Weekend|**Rush 01**|`Recursive`, `Backtracking`|-|96%||
-|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
+|-|-|-|:-:|-|
+|**Day 00**|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|~~05%~~||
+|**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~||
+|**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~||
+|**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
+|**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|~~00%~~||
+|**Day 05**|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%||
+|**Day 06**|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%||
+|**Day 07**|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
+|**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~|
+|**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
 |**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
 |**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
 |**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
 |**Day 13**|`Binary search tree`, `Red-Black tree`|:o::o::o::o::x: :o::o::x::x::x:|30%||
+|**Sastantua**|`Pattern printing`|:o:|100%||
 |**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
-|**Rush 00**|`Pattern printing`|-|100%||
-|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
 |**EvalExpr**|`Makefile`, `Math expression`, `Basic syntax tree`|:o:|100%||
+|**Rush 00**|`Pattern printing`|-|100%||
+|**Rush 01**|`Recursive`, `Backtracking`|-|96%||
+|**Rush 02**|`Makefile`, `Shape Detection`|-|100%||
 |**BSQ**|`Makefile`, `Optimization algorithme`|:x::x:|~~00%~~||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzY4ODcwMCwtMTAwNzEwMjY5LC03Mz
-M5ODcxNywtMTIzODU3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYy
-ODYsMjEyOTk2ODY3LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC
-02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3Njcy
-ODU3OV19
+eyJoaXN0b3J5IjpbLTE4MDk0NTQyMDgsLTEwMDcxMDI2OSwtNz
+MzOTg3MTcsLTEyMzg1NzQ3NzAsLTE3NTUwMjE2MDQsMjAyNzk2
+Mjg2LDIxMjk5Njg2NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NC
+wtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3
+Mjg1NzldfQ==
 -->
