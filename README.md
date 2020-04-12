@@ -78,13 +78,13 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 11|`Linked list`|||
 ||Day 12|`Makefile`, `File manipulation`, `Program composition`|||
 ||Day 13|`Binary search tree`, `Red-Black tree`|||
-||Rush 02|`Shape Detection`|||
-||EvalExpr|`Math expression`, `Basic syntax tree`|||
+||Rush 02|`Makefile`, `Shape Detection`|||
+||EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|||
 ||BSQ|`Optimization algorithme`|||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ4MjEzMDksMjEyOTk2ODY3LC0xOT
-U3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3
-NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbMTAwMjUwNDgzNSwyMTI5OTY4NjcsLTE5NT
+c1NDg2OTgsLTExOTU4MTc5NTQsLTY2MDU4NjU2OSwxMTc3Mzc1
+MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
