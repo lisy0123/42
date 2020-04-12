@@ -80,19 +80,11 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 13|`Binary search tree`, `Red-Black tree`|||
 ||Rush 02|`Shape Detection`|||
 ||EvalExpr|`Math expression evaluation`, `Basic syntax tree`|||
+||BSQ|`Optimization algorithme`|||
 
-
-
-#### [](https://github.com/samuelkarani/42-piscine-c#projects)Projects
-
--   **Sastantua**: Pattern Printing
--   **Match/Nmatch**: String Recursion
--   **EvalExpr**: Math Expression Evaluation & Basic Syntax Trees
--   **BSQ**: Optimization Algorithm
-
-[LEARN MORE](https://www.42.us.org/program/piscine)
+[Learn more about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NzU1MjY1LC0xOTU3NTQ4Njk4LC0xMT
-k1ODE3OTU0LC02NjA1ODY1NjksMTE3NzM3NTMzNiwxMjIwOTM5
-NDksLTk3NjcyODU3OV19
+eyJoaXN0b3J5IjpbMTUzMzAyOTgyMiwtMTk1NzU0ODY5OCwtMT
+E5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkz
+OTQ5LC05NzY3Mjg1NzldfQ==
 -->
