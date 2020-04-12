@@ -22,6 +22,8 @@ ft_irc
 webserv
 ft_contrainers
 Exam Rank 05
+ft_transcendence
+Exam Rank 06
 
 ## Cadet (Old curriculum)
 
@@ -48,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU0MTE5MDUsMTIyMDkzOTQ5LC05Nz
-Y3Mjg1NzldfQ==
+eyJoaXN0b3J5IjpbMTE3NzM3NTMzNiwxMjIwOTM5NDksLTk3Nj
+cyODU3OV19
 -->
