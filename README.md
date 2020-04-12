@@ -63,16 +63,16 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||**Day 01**|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~||
 ||**Day 02**|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~||
 ||**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%||
-||**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|00%||
+||**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|~~00%~~||
 |Weekend|**Rush 00**|`Pattern printing`|-|100%||
 |Weekend|**Sastantua**|`Pattern printing`|:o:|100%||
 ||**Day 05**|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%||
 ||**Day 06**|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%||
 ||**Day 07**|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
-||**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|10%|
-||**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|09%||
+||**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~|
+||**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
 |Weekend|**Rush 01**|`Recursive`, `Backtracking`|-|96%||
-|Weekend|**Match/Nmatch**|`String Recursion`|:x::o:|00%||
+|Weekend|**Match/Nmatch**|`String Recursion`|:x::o:|~~00%~~||
 ||**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
 ||**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
 ||**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
@@ -83,7 +83,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMjg5NTM5LC03MzM5ODcxNywtMTIzOD
+eyJoaXN0b3J5IjpbNjY4MzI5MDI3LC03MzM5ODcxNywtMTIzOD
 U3NDc3MCwtMTc1NTAyMTYwNCwyMDI3OTYyODYsMjEyOTk2ODY3
 LC0xOTU3NTQ4Njk4LC0xMTk1ODE3OTU0LC02NjA1ODY1NjksMT
 E3NzM3NTMzNiwxMjIwOTM5NDksLTk3NjcyODU3OV19
