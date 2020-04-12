@@ -1,6 +1,6 @@
 # 42 Silicon Valley
 
-## Cadet (New curriculum)
+## Cadet (New curriculum) (Mar 2020 - )
 |Circle|Project|Language|Topics|Result|PDF|
 |:-:|:-|:-:|:-|:-:|:-|
 |1|**Libft**|||||
@@ -25,7 +25,7 @@
 |7|**ft_transcendence**|||||
 ||**Exam Rank 06**|||||
 
-## Cadet (Old curriculum) (18 Feb 20 - 11 )
+## Cadet (Old curriculum) (18 Feb 2020 - 11 Mar 2020)
 
 |Project|Language|Topics|Result|PDF|
 |:-|:-:|:-|:-:|:-|
@@ -47,9 +47,9 @@
 It was converted into a remote study due to CVID-19, and at the same time it automatically changed to a new course, that have to start from the beginning, level 0. 
 Projects are slightly different.
 
-## Piscine
+## Piscine (Oct 2019)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY1MjgxMzksLTY2MDU4NjU2OSwxMT
-c3Mzc1MzM2LDEyMjA5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbLTU3NzA3NDc0NCwtNjYwNTg2NTY5LDExNz
+czNzUzMzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
