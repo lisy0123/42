@@ -1,16 +1,15 @@
-#42 Silicon Valley
+# 42 Silicon Valley
 
-##Cadet (New curriculum)
+## Cadet (New curriculum)
 
-Cadet (Old curriculum)
-
+## Cadet (Old curriculum)
 
 |Project|Language|Topics|Result|PDF|Status|
 |:--|:--:|:--|:--:|:--|:--:|
-|[ft_debut]|-||100/100|[ft_debut.en.pdf]|finish|
-|[libft]|C|124/125|[libft.en.pdf]|finish|
-|[get_next_line]|C|125/125|[get_next_line.en.pdf]|finish|
-|[fillit]|100/100|C|[fillit.en.pdf]|finish|
+|[ft_debut]|-|=|100/100|[ft_debut.en.pdf]|finish|
+|[libft]|C||124/125|[libft.en.pdf]|finish|
+|[get_next_line]|C||125/125|[get_next_line.en.pdf]|finish|
+|[fillit]|C||100/100|[fillit.en.pdf]|finish|
 
 [ft_debut]: https://github.com/lisy0123/42/tree/master/Cadet_old/ft_debut
 [libft]: https://github.com/lisy0123/42/tree/master/Cadet_old/libft
@@ -25,8 +24,8 @@ Cadet (Old curriculum)
 It was converted into a remote study due to CVID-19, and at the same time it automatically changed to a new course, that have to start from the beginning, level 0.   
 Projects are slightly different.   
 
-Piscine
+## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTc3MTEwXX0=
+eyJoaXN0b3J5IjpbLTMxNzgwMTY5OV19
 -->
