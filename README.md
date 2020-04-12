@@ -15,15 +15,15 @@
 ||**minishell**||||||
 ||**libasm**||||||
 ||**Exam Rank 03**||||||
-||**Philosophers**||||||
-|**CPP Module 00 - 08**||||||
-|**Exam Rank 04**||||||
-|**ft_irc**||||||
-|**webserv**||||||
-|**ft_contrainers**||||||
-|**Exam Rank 05**||||||
-|**ft_transcendence**||||||
-|**Exam Rank 06**||||||
+|5|**Philosophers**||||||
+||**CPP Module 00 - 08**||||||
+||**Exam Rank 04**||||||
+|6|**ft_irc**||||||
+||**webserv**||||||
+||**ft_contrainers**||||||
+||**Exam Rank 05**||||||
+|7|**ft_transcendence**||||||
+||**Exam Rank 06**||||||
 
 ## Cadet (Old curriculum)
 
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDgwNjIzOSwxMTc3Mzc1MzM2LDEyMj
-A5Mzk0OSwtOTc2NzI4NTc5XX0=
+eyJoaXN0b3J5IjpbMjg0NjQ4NzI5LDExNzczNzUzMzYsMTIyMD
+kzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
