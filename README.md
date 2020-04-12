@@ -59,16 +59,16 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 |Day|Topics|Evaluated by moulinette|Result|PDF|
 |-|-|-|:-:|-|
-|[**Day 00**]|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|~~05%~~|[d00.en.pdf]|
-|[**Day 01**]|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~|[d01.en.pdf]|
-|[**Day 02**]|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~|[d02.en.pdf]|
-|[**Day 03**|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%|[d03.en.pdf]|
-|[**Day 04**|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|~~00%~~|[d03.en.pdf]|
-|**Day 05**|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%||
-|**Day 06**|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%||
-|**Day 07**|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%||
-|**Day 08**|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~|
-|**Day 09**|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
+|[**Day 00**]|`Shell scripting`, `UNIX`|:o::x::o::o::x: :x::o::o::x::x:|~~05%~~|[*d00.en.pdf*]|
+|[**Day 01**]|`Shell scripting`, `UNIX`|:x::x::x::x::o: :x::x::x:|~~00%~~|[*d01.en.pdf*]|
+|[**Day 02**]|`Loop`|:x::x::o::x::o: :o::x::x:|~~00%~~|[*d02.en.pdf*]|
+|[**Day 03**]|`String`, `Base conversion`|:o::o::o::o::o: :o::x::o::x::x:|40%|[*d03.en.pdf*]|
+|[**Day 04**]|`Iteration`, `Recursion`, `Backtracking`|:x::x::x::x::o: :o::o::o::x::x:|~~00%~~|[*d04.en.pdf*]|
+|[**Day 05**]|`Strings & Base conversion`|:o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::o::o::o: :o::o::x::x:|91%|[*d05.en.pdf*]|
+|[**Day 06**]|`Library`, `Sorting`, `Program composition`|:o::o::o::o::o:|100%|[*d06.en.pdf*]|
+|[**Day 07**]|`String`, `Array`|:o::o::o::x::o: :x::x::x:|30%|[*d07.en.pdf*]|
+|[**Day 08**]|`Program composition`|:o::o::x::o::o: :x::x:|~~10%~~||
+|[**Day 09**]|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:|~~09%~~||
 |**Day 10**|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:|60%||
 |**Day 11**|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:|33%||
 |**Day 12**|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:|35%||
@@ -83,7 +83,7 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUzMzEzMTQsLTEwMDcxMDI2OSwtNz
+eyJoaXN0b3J5IjpbLTIwMDA2NDM2MTAsLTEwMDcxMDI2OSwtNz
 MzOTg3MTcsLTEyMzg1NzQ3NzAsLTE3NTUwMjE2MDQsMjAyNzk2
 Mjg2LDIxMjk5Njg2NywtMTk1NzU0ODY5OCwtMTE5NTgxNzk1NC
 wtNjYwNTg2NTY5LDExNzczNzUzMzYsMTIyMDkzOTQ5LC05NzY3
