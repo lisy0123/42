@@ -5,25 +5,25 @@
 |:-|:-:|:-|:-:|:-|:-:|
 |**Libft**||||||
 |**get_next_line**||||||
-|ft_printf
-|netwhat
-|ft_server
-|cub3d
-|miniRT
-|Exam Rank 02
-ft_services
-minishell
-libasm
-Exam Rank 03
-Philosophers
-CPP Module 00 - 08
-Exam Rank 04
-ft_irc
-webserv
-ft_contrainers
-Exam Rank 05
-ft_transcendence
-Exam Rank 06
+|**ft_printf**||||||
+|**netwhat**||||||
+|**ft_server**||||||
+|**cub3d**||||||
+|**miniRT**||||||
+|**Exam Rank 02**||||||
+|**ft_services**||||||
+|**minishell**||||||
+|**libasm**||||||
+|**Exam Rank 03**||||||
+|**Philosophers**||||||
+|**CPP Module 00 - 08**||||||
+|**Exam Rank 04**||||||
+|**ft_irc**||||||
+|**webserv**||||||
+|**ft_contrainers**||||||
+|**Exam Rank 05**||||||
+|**ft_transcendence**||||||
+|**Exam Rank 06**||||||
 
 ## Cadet (Old curriculum)
 
@@ -50,6 +50,6 @@ Projects are slightly different.
 ## Piscine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTM1OTk3OCwxMTc3Mzc1MzM2LDEyMj
+eyJoaXN0b3J5IjpbMTA2NzQ4MzQxNiwxMTc3Mzc1MzM2LDEyMj
 A5Mzk0OSwtOTc2NzI4NTc5XX0=
 -->
