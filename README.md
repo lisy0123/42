@@ -73,18 +73,18 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 ||Day 08|`Program composition`|:o::o::x::o::o: :x::x:||
 ||Day 09|`String`, `Array`, `Shell scripting`, `Bit manipulation`, `Data structure`|:o::o::o::x:||
 |Weekend|Rush 01|`Recursive`, `Backtracking`|||
-|Weekend|Match/Nmatch|`String Recursion`|||
+|Weekend|Match/Nmatch|`String Recursion`|:x::o:||
 ||Day 10|`Makefile`, `Sorting`, `Program composition`, `Functional programming`|:o::o::o::o::o: :o::o::x::x::o:||
 ||Day 11|`Linked list`|:o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:||
-||Day 12|`Makefile`, `File manipulation`, `Program composition`|:o::x::o::o::x: :x::o::o::x::x:||
+||Day 12|`Makefile`, `File manipulation`, `Program composition`|:o::x::x::x::x:||
 ||Day 13|`Binary search tree`, `Red-Black tree`|||
 |Weekend|Rush 02|`Makefile`, `Shape Detection`|||
-|Weekend|EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|||
+|Weekend|EvalExpr|`Makefile`, `Math expression`, `Basic syntax tree`|:o:||
 |4|BSQ|`Makefile`, `Optimization algorithme`|||
 
 [:book: More about piscine](https://www.42.us.org/program/piscine)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNDQ0MzA1LDIxMjk5Njg2NywtMTk1Nz
+eyJoaXN0b3J5IjpbODEyNTA5Njg5LDIxMjk5Njg2NywtMTk1Nz
 U0ODY5OCwtMTE5NTgxNzk1NCwtNjYwNTg2NTY5LDExNzczNzUz
 MzYsMTIyMDkzOTQ5LC05NzY3Mjg1NzldfQ==
 -->
