@@ -5,11 +5,17 @@
 Basicly follow rules of **[Norminette]**
 
 > **Examples of norminette rules**
-> *Put the standard 42 school header.*
-> *Each function must be maximum 25 line.*
-> *Each line must be at most 80 columns wide, comments included.*
+>
+> Put the standard 42 school header.**
+>
+> **Each function must be maximum 25 line.*
+>
+> Each line must be at most 80 columns wide, comments included.
+>
 > *Maximum 5 variables per function*
+>
 > *Use only `while` and `if`*
+>
 > *etc...*
 
 [42 Silicon Valley]: https://www.42.us.org
