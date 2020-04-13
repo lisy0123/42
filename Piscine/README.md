@@ -72,4 +72,4 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 
 
-[📖 Go Back](https://github.com/lisy0123/42)
+[↩️ Go Back](https://github.com/lisy0123/42)

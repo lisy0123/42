@@ -1,8 +1,16 @@
 # Bootcamp Python (13 Apr 2020 - 17 Apr 2020)
 
-**1 week to learn Python for Machine Learning. **
+1 week to learn Python for Machine Learning.
 
-This project is a Python programming bootcamp created by [42 AI](http://www.42ai.fr/).
+> **In this bootcamp, there is...**
+>
+> *No git repository*
+>
+> *No norminette*
+>
+> *No correction scheme*
+
+
 
 | Project  | Topics                                                       | PDF           |
 | -------- | ------------------------------------------------------------ | ------------- |
@@ -25,4 +33,4 @@ This project is a Python programming bootcamp created by [42 AI](http://www.42ai
 
 
 
-[📖 Go Back](https://github.com/lisy0123/42)
+[↩️ Go Back](https://github.com/lisy0123/42)

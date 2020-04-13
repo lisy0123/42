@@ -1,8 +1,16 @@
 # Bootcamp Machine Learning (20 Apr 2020 - 24 Apr 2020)
 
-**1 week to learn basics in Machine Learning.**
+1 week to learn basics in Machine Learning.
 
-This project is a Machine Learning bootcamp created by [42 AI](http://www.42ai.fr/).
+> **In this bootcamp, there is...**
+>
+> *No git repository*
+>
+> *No norminette*
+>
+> *No correction scheme*
+
+
 
 | Project  | Topics                                                       | PDF           |
 | -------- | ------------------------------------------------------------ | ------------- |
@@ -25,4 +33,4 @@ This project is a Machine Learning bootcamp created by [42 AI](http://www.42ai.f
 
 
 
-[📖 Go Back](https://github.com/lisy0123/42)
+[↩️ Go Back](https://github.com/lisy0123/42)

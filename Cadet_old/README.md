@@ -1,10 +1,6 @@
 # Cadet (Old curriculum) (18 Feb 2020 - 11 Mar 2020)
 
-It was converted into a remote study from 13 Apr 2020 due to CVID-19. 
-
-At the same time it automatically changed to a new course, that have to start from the beginning, level 0. 
-
-Projects are slightly different. 
+It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
 
 | Project             | Language | Topics                                          | Result  | PDF                      |
 | :------------------ | :------: | :---------------------------------------------- | :-----: | :----------------------- |
@@ -25,4 +21,4 @@ Projects are slightly different.
 
 
 
-[📖 Go Back](https://github.com/lisy0123/42)
+[↩️ Go Back](https://github.com/lisy0123/42)
