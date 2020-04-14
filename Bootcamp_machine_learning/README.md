@@ -1,6 +1,8 @@
-# Bootcamp Machine Learning (20 Apr 2020 - 24 Apr 2020)
+# Bootcamp Machine Learning (Apr 20 2020 - Apr 24 2020)
 
-1 week to learn basics in Machine Learning.
+**1 week to learn basics in Machine Learning.**
+
+
 
 > **In this bootcamp, there is...**
 >
@@ -9,6 +11,8 @@
 > *No norminette*
 >
 > *No correction scheme*
+
+Instead, recommend to follow the [**Pep8 standards**](https://www.python.org/dev/peps/pep-0008/) / [*(kr version)*](https://b.luavis.kr/python/python-convention).
 
 
 

@@ -25,17 +25,15 @@ Basicly follow rules of **[Norminette]**.
 
 ---
 
-## Bootcamp Python (13 Apr 2020 - 17 Apr 2020)
+## Cadet (New curriculum) (Apr 14 2020 - )
 
-1 week to learn Python for Machine Learning.
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Bootcamp_python/README.md)
+[📖 More Details](https://github.com/lisy0123/42/blob/master/Cadet_new/README.md)
 
 
 
 ---
 
-## Bootcamp Machine Learning (20 Apr 2020 - 24 Apr 2020)
+## Bootcamp Machine Learning (Apr 20 2020 - Apr 24 2020)
 
 1 week to learn basics in Machine Learning. 
 
@@ -45,15 +43,17 @@ Basicly follow rules of **[Norminette]**.
 
 ---
 
-## Cadet (New curriculum) (13 Apr 2020 - )
+## Bootcamp Python (Apr 13 2020 - Apr 17 2020)
 
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Cadet_new/README.md)
+1 week to learn Python for Machine Learning.
+
+[📖 More Details](https://github.com/lisy0123/42/blob/master/Bootcamp_python/README.md)
 
 
 
 ---
 
-## Cadet (Old curriculum) (18 Feb 2020 - 11 Mar 2020)
+## Cadet (Old curriculum) (Feb 18 2020 - Mar 11 2020)
 
 It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
 
