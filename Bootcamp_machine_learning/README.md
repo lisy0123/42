@@ -1,4 +1,4 @@
-# Bootcamp Machine Learning (Apr 20 2020 - Apr 24 2020)
+# Bootcamp Machine Learning (Apr 27 2020 - May 1 2020)
 
 **1 week to learn basics in Machine Learning.**
 
@@ -16,13 +16,13 @@ Instead, recommend to follow the [**Pep8 standards**](https://www.python.org/dev
 
 
 
-| Project  | Topics                                                       | PDF           |
-| -------- | ------------------------------------------------------------ | ------------- |
-| [Day 00] | `Sum`, `Mean`, `Variance`, `Standard deviation`, `Vectors`, `Matrices operations` | *[day00.pdf]* |
-| Day 01   | `Matrix operations`, `Gradient descent`, `Cost function`, `Normal equation`, `MSE, RMSE R-score`, `Learning rate` | *[day01.pdf]* |
-| Day 02   | `Sigmoid`, `Log loss`, `Gradient descent`, `Logistic regression`, `Model evaluation`, `Confusion matrix` | *[day02.pdf]* |
-| Day 03   | `Regularization`, `Regularized linear regression`, `Regularized logistic regression`, `Z-score standardization`, `Min-max standardization`, `Polynomial features`, `Interaction terms` | *[day03.pdf]* |
-| Day 04   | `Gini impurity`, `Entropy`, `Information gain`,  `Decision trees` | *[day04.pdf]* |
+| Project      | Topics                                                       | PDF           |
+| ------------ | ------------------------------------------------------------ | ------------- |
+| **[Day 00]** | `Sum`, `Mean`, `Variance`, `Standard deviation`, `Vectors`, `Matrices operations` | *[day00.pdf]* |
+| **[Day 01]** | `Matrix operations`, `Gradient descent`, `Cost function`, `Normal equation`, `MSE, RMSE R-score`, `Learning rate` | *[day01.pdf]* |
+| **[Day 02]** | `Sigmoid`, `Log loss`, `Gradient descent`, `Logistic regression`, `Model evaluation`, `Confusion matrix` | *[day02.pdf]* |
+| **[Day 03]** | `Regularization`, `Regularized linear regression`, `Regularized logistic regression`, `Z-score standardization`, `Min-max standardization`, `Polynomial features`, `Interaction terms` | *[day03.pdf]* |
+| **[Day 04]** | `Gini impurity`, `Entropy`, `Information gain`,  `Decision trees` | *[day04.pdf]* |
 
 [Day 00]: https://github.com/lisy0123/42/tree/master/Bootcamp_machine_learning/d00
 [Day 01]: https://github.com/lisy0123/42/tree/master/Bootcamp_machine_learning/d01

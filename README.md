@@ -21,6 +21,8 @@ Basicly follow rules of **[Norminette]**.
 [42 Silicon Valley]: https://www.42.us.org
 [Norminette]: https://github.com/lisy0123/42/blob/master/norminette.en.pdf
 
+[* Norminette for remote hostname](https://github.com/MrChafeits/42norme)
+
 
 
 ---
@@ -33,7 +35,7 @@ Basicly follow rules of **[Norminette]**.
 
 ---
 
-## Bootcamp Machine Learning (Apr 20 2020 - Apr 24 2020)
+## Bootcamp Machine Learning (Apr 27 2020 - May 1 2020)
 
 1 week to learn basics in Machine Learning. 
 
@@ -43,11 +45,21 @@ Basicly follow rules of **[Norminette]**.
 
 ---
 
-## Bootcamp Python (Apr 13 2020 - Apr 17 2020)
+## Bootcamp Python (Apr 13 2020 - Apr 15 2020, Apr 23 2020 - Apr 24 2020)
 
 1 week to learn Python for Machine Learning.
 
 [📖 More Details](https://github.com/lisy0123/42/blob/master/Bootcamp_python/README.md)
+
+
+
+---
+
+## 42 Network Coding Challenge (Apr 14 2020 - Apr 21 2020)
+
+1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
+
+[📖 More Details](https://github.com/lisy0123/42/blob/master/42_Netwrok_coding_challenge/README.md)
 
 
 
