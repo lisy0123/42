@@ -5,7 +5,6 @@
 
 import sys
 
-
 if len(sys.argv) == 2:
     try:
         if (int)(sys.argv[1]) == 0:
