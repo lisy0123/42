@@ -1,4 +1,4 @@
-# Bootcamp Python (Apr 13 2020 - Apr 17 2020)
+# Bootcamp Python (Apr 13 2020 - Apr 15 2020, Apr 23 2020 - Apr 24 2020)
 
 **1 week to learn Python for Machine Learning.**
 
@@ -16,13 +16,13 @@ Instead, recommend to follow the [**Pep8 standards**](https://www.python.org/dev
 
 
 
-| Project  | Topics                                                       | PDF           |
-| -------- | ------------------------------------------------------------ | ------------- |
-| [Day 00] | `Basic setup`, `variables`, `types`, `functions`...          | *[day00.pdf]* |
-| Day 01   | `Objects`, `Cats`, `Inheritance`, `Built-in functions`, `Generator`, `Construtors`, `Iterator`... | *[day01.pdf]* |
-| Day 02   | `Decorators`, `Multiprocessing`, `Lambda`, `Build package`... | *[day02.pdf]* |
-| Day 03   | `NummPy array`, `Slicing`, `Stacking`, `Dimensions`, `Broadcasting`, `Normalization`... | *[day03.pdf]* |
-| Day 04   | `Manipulate dataframes`                                      | *[day04.pdf]* |
+| Project      | Topics                                                       | PDF           |
+| ------------ | ------------------------------------------------------------ | ------------- |
+| **[Day 00]** | `Basic setup`, `variables`, `types`, `functions`...          | *[day00.pdf]* |
+| **[Day 01]** | `Objects`, `Cats`, `Inheritance`, `Built-in functions`, `Generator`, `Construtors`, `Iterator`... | *[day01.pdf]* |
+| **[Day 02]** | `Decorators`, `Multiprocessing`, `Lambda`, `Build package`... | *[day02.pdf]* |
+| **[Day 03]** | `NummPy array`, `Slicing`, `Stacking`, `Dimensions`, `Broadcasting`, `Normalization`... | *[day03.pdf]* |
+| **[Day 04]** | `Manipulate dataframes`                                      | *[day04.pdf]* |
 
 [Day 00]: https://github.com/lisy0123/42/tree/master/Bootcamp_python/d00
 [Day 01]: https://github.com/lisy0123/42/tree/master/Bootcamp_python/d01
