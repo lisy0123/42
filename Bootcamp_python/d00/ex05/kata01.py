@@ -1,5 +1,5 @@
 """
-- Using the language dictionary
+- Using the language dictionary.
 """
 
 LAN = {

@@ -1,9 +1,13 @@
 """
 - Given the tuple above, whose values stand for:
-    (hour, minutes, year, month, day)
+    (hour, minutes, year, month, day).
 """
 
 TIME = (3, 30, 2019, 9, 25)
 
 print("TIME = {}".format(TIME))
-print("{}/{}/{} {}:{}".format(TIME[3].rjust(2,'0'), TIME[4], TIME[2], TIME[0], TIME[1]))
+print("{:02d}/{:02d}/{:04d} {:02d}:{:02d}".format((int)(TIME[3]),
+                                                  (int)(TIME[4]),
+                                                  (int)(TIME[2]),
+                                                  (int)(TIME[0]),
+                                                  (int)(TIME[1])))

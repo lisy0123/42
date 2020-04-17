@@ -1,5 +1,5 @@
 """
-- Using string formatting
+- Using string formatting.
 """
 
 NUM = (19, 42, 21)
