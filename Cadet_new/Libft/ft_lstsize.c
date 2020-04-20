@@ -6,21 +6,21 @@
 /*   By: sanlee <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/22 19:14:02 by sanlee            #+#    #+#             */
-/*   Updated: 2020/04/20 00:04:55 by sanlee           ###   ########.fr       */
+/*   Updated: 2020/04/21 02:45:54 by sanlee           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-t_list		*ft_lstsize(t_list *lst, t_list *(*f)(t_list *elem))
+int		*ft_lstsize(t_list *lst)
 {
-	t_list	*new;
+    int *size;
 
-	if (lst != NULL && f != NULL)
+    size = 0;
+	while (lst != NULL)
 	{
-		new = f(lst);
-		new->next = ft_lstsize(lst->next, f);
-		return (new);
+		size++;
+		lst = lst->next;
 	}
-	return (NULL);
+	return (size);
 }
