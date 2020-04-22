@@ -1,5 +1,13 @@
 # Cadet (New curriculum) (Apr 14 2020 - )
 
+Projects that have already done in the previous curriculum will be validated as complete for the new course, without having to re-submit.
+
+>  For me...
+>
+> **Libft**
+>
+> **get_next_line**
+
 
 
 | Circle | Project                | Language | Topics | Result | PDF  |
