@@ -4,7 +4,7 @@
 
 
 
-> **In this bootcamp, there is...**
+> **In this bootcamp, there are...**
 >
 > *No git repository*
 >
