@@ -59,7 +59,7 @@ Basicly follow rules of **[Norminette]**.
 
 1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
 
-[📖 More Details](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge/README.md)
+[📖 More Details](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge)
 
 
 

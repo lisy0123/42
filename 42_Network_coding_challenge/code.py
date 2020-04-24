@@ -8,16 +8,7 @@ from numpy import array
 
 class DebugTool:
     def __init__(self):
-        try:
-            self.fd = open(r"C:\Users\JUNJI\Documents\Condingame\pyCharmProject\FantasticBits\input.txt")
-        except (ImportError, OSError):
-            self.debug_mode = False
-        else:
-            import matplotlib.pyplot as plt
-            self.plt = plt
-            self.fg = None
-            self.ax = None
-            self.debug_mode = True
+        self.debug_mode = False
 
     def input(self):
         if self.debug_mode:
@@ -41,7 +32,6 @@ class DebugTool:
         print(*args, "@" + str(cf.f_back.f_lineno), file=sys.stderr, flush=True)
 
     def plot_vector_clock(self, vct, clr="b", txt=""):
-        # todo: refactor in OO style
         self.plt.plot((0, vct[0]), (0, vct[1]), color=clr)
         self.plt.text(vct[0], vct[1], txt)
 
@@ -59,9 +49,9 @@ class Entity:
         self.state = int(state)
 
         self.command = ""
-        self.target = None  # type: Entity
+        self.target = None
         self.magic_cost = 0
-        #self.obliviate_effect = 0
+        self.obliviate_effect = 0
 
     def __lt__(self, other):
         return self.entity_id < other.entity_id
@@ -70,14 +60,14 @@ class Entity:
         # always shoot to the mid of the goal
         self.command = "THROW {0} {1} {2}".format(opp_goal_x, int(FIELD_LENGTH_Y / 2), 500)
 
-    def thrust_to(self, x, y, thrust=150):
+    def thrust_to(self, x, y, thrust = 150):
         self.command = "MOVE {0} {1} {2}".format(x, y, thrust)
 
     def move_to_target(self):
         self.thrust_to(*(self.target.location + self.target.velocity - self.velocity))
 
-    def accio_to_target(self):
-        self.command = "WINGARDIUM {0} {1} {2} 50".format(self.target.entity_id, opp_goal_x, int(FIELD_LENGTH_Y / 2))
+    def magic_to_target(self):
+        self.command = "WINGARDIUM {0} {1} {2} 45".format(self.target.entity_id, opp_goal_x, int(FIELD_LENGTH_Y / 2))
         self.magic_cost = 20
 
     def predict_distance(self, ent):
@@ -88,11 +78,6 @@ class Entity:
         return self.location + self.velocity + vctr
 
     def set_throw_target(self, snaffles, wizards, role="ALL"):
-        # NEW LOGIC PENDING
-        # distance_list=[] # type:list[int, Entity]
-        # for wiz in wizards:
-        #     distance_list.append(wiz.list_distance(snaffles))
-
         if len(snaffles) == 1:
             self.target = snaffles[0]
         else:
@@ -112,20 +97,20 @@ class Entity:
             self.target = min([[snf.predict_distance(self), snf] for snf in snfls])[1]
 
     def command_for_throw(self, opponents):
-        # use ACCIO if condition below matched
+        # if condition below matched, use WINGARDIUM
         # distance to target, distance opponent to target, direction of target, spell_gauge
         if (self.predict_distance(self.target) >
                 min(min([opp.predict_distance(self.target) for opp in opponents]), 4000)) \
                 and abs(self.target.x - opp_goal_x) > abs(self.x - opp_goal_x) \
-                and magic_gauge > 10 + 10:
-            self.accio_to_target()
+                and magic_gauge > 20 + 20:
+            self.magic_to_target()
         else:
             self.move_to_target()
 
     def dodge_bludgers(self, bludgers):
         close_bld_dist = min([[self.predict_distance(bld), bld] for bld in bludgers])
         if close_bld_dist[0] < BLUDGER_SIZE + WIZARD_SIZE:
-            bld = close_bld_dist[1]  # type: Entity
+            bld = close_bld_dist[1]
             direction = self.predict_location() - bld.predict_location()
             norm = numpy.linalg.norm(direction)
             dodge_vector = direction / norm * ((BLUDGER_SIZE + WIZARD_SIZE) * 2 - close_bld_dist[0])
@@ -147,23 +132,20 @@ class Entity:
             direction = array([int(cmd_list[1]), int(cmd_list[2])]) - self.location
             norm = numpy.linalg.norm(direction)
             vector = direction / norm * int(cmd_list[3])
-            # print(self.entity_id, file=sys.stderr)
-            # print(cmd_list, file=sys.stderr)
-            # print(numpy.linalg.norm(vector), file=sys.stderr)
         else:
             vector = array([0, 0])
         return vector
 
-#    def obliviate_bludgers(self, bludgers):
-#        close_bld_dist = min([[self.predict_distance(bld), bld] for bld in bludgers])
-#        print(close_bld_dist[0], file=sys.stderr)
-#        if self.obliviate_effect <= 0 and close_bld_dist[0] < (BLUDGER_SIZE + WIZARD_SIZE) * 2 and magic_gauge > 20 + 5:
-#            self.command = "OBLIVIATE {0}".format(close_bld_dist[1].entity_id)
-#            self.magic_cost = 5
-#            self.obliviate_effect = 3
-#        else:
-#            self.obliviate_effect -= 1
-#            self.dodge_bludgers(bludgers)
+    def obliviate_bludgers(self, bludgers):
+        close_bld_dist = min([[self.predict_distance(bld), bld] for bld in bludgers])
+        print(close_bld_dist[0], file=sys.stderr)
+        if self.obliviate_effect <= 0 and close_bld_dist[0] < (BLUDGER_SIZE + WIZARD_SIZE) * 2 and magic_gauge > 20 + 5:
+            self.command = "WINGARDIUM {0} {1} {2} 45".format(self.target.entity_id, opp_goal_x, int(FIELD_LENGTH_Y / 2))
+            self.magic_cost = 5
+            self.obliviate_effect = 3
+        else:
+            self.obliviate_effect -= 1
+            self.dodge_bludgers(bludgers)
 
     def is_obstacle(self, start, end, size1=0, size2=0):
         vctr1 = array(end - start)
@@ -172,35 +154,6 @@ class Entity:
         if distance <= size1 + size2:
             return True
 
-    def search_flipendo_target(self, snaffles, obstruct):
-        # able to goal or not
-        if magic_gauge > 20 + 20:
-            for snf in snaffles:
-                vctr = ((snf.predict_location() - self.predict_location()) *
-                        (opp_goal_x - self.predict_location()[0]) / (
-                            snf.predict_location()[0] - self.predict_location()[0]))
-
-                print(snf.entity_id, vctr, self.predict_location(), file=sys.stderr)
-                print(snf.predict_location() - self.predict_location(),
-                      int((opp_goal_x - self.predict_location()[0]) / (
-                          snf.predict_location()[0] - self.predict_location()[0])),
-                      self.predict_location()[1] + vctr[1],
-                      file=sys.stderr)
-
-                if TOP_GOAL_Y < self.predict_location()[1] + vctr[1] < BOTTOM_GOAL_Y \
-                        and (opp_goal_x - self.predict_location()[0]) / (
-                                    snf.predict_location()[0] - self.predict_location()[0]) > 0 \
-                        and self.predict_distance(snf) > 2000:
-                    if not [obs for obs in obstruct
-                            if obs.is_obstacle(self.predict_location(), self.predict_location() + vctr, 700)]:
-                        self.target = snf.entity_id
-                        return snf.entity_id
-        return None
-
-#    def flipend_to_target(self):
-#        self.command = "FLIPENDO {0}".format(self.target)
-#        self.magic_cost = 20
-
 
 def vector_size_of(vctr, size):
     norm = numpy.linalg.norm(vctr)
@@ -208,7 +161,7 @@ def vector_size_of(vctr, size):
 
 
 def output_command(list_of_entity):
-    for ent in list_of_entity:  # type:Entity
+    for ent in list_of_entity:
         print(ent.command)
 
 
@@ -229,7 +182,9 @@ magic_gauge = 0
 turn_count = 0
 
 # game start
-my_team_id = int(DT.input())  # if 0 you need to score on the right of the map, if 1 , on the left
+my_team_id = int(DT.input())
+# if 0 you need to score on the right of the map
+# if 1 , on the left
 if my_team_id == 0:
     opp_goal_x = RIGHT_GOAL_X
     my_goal_x = LEFT_GOAL_X
@@ -243,11 +198,10 @@ while True:
     opp_score, opp_magic_point = map(int, DT.input().split())
     number_of_entities = int(DT.input())
 
-    entities = []  # type:list[Entity]
-    for i in range(number_of_entities):  # type:int
+    entities = []
+    for i in range(number_of_entities):
         entities.append(Entity(*(DT.input().split())))
 
-    # WARNING! entity_id  NOT EQUAL to list index
     wizs = [entity for entity in entities if entity.entity_type == "WIZARD"]
     snfs = [entity for entity in entities if entity.entity_type == "SNAFFLE"]
     blds = [entity for entity in entities if entity.entity_type == "BLUDGER"]
@@ -258,20 +212,18 @@ while True:
 
     for wiz in wizs:
         if wiz.state == 0:
-#            if wiz.search_flipendo_target(snfs, blds + opps):
-#                wiz.flipend_to_target()
- #           else:
             if wiz is forward:
                 wiz.set_throw_target(snfs, wizs, "FWD")
             else:
                 wiz.set_throw_target(snfs, wizs, "BACK")
             wiz.command_for_throw(opps)
-            # wiz.obliviate_bludgers(blds)
-            # wiz.dodge_bludgers(blds)
+            wiz.obliviate_bludgers(blds)
+            wiz.dodge_bludgers(blds)
+
         else:
             wiz.throw()
 
-    # for debug, print(afo, file=sys.stderr)
+    # for debugging, printing
     print(magic_gauge, file=sys.stderr)
 
     output_command(wizs)
