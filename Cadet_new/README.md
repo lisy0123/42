@@ -38,8 +38,8 @@ Projects that have already done in the previous curriculum will be validated as 
 
 [**Libft**]: https://github.com/lisy0123/42/tree/master/Cadet_old/libft
 [**get_next_line**]: https://github.com/lisy0123/42/tree/master/Cadet_old/get_next_line
-[**ft_printf**]: https://github.com/lisy0123/42/tree/master/Cadet_new/ft_printf
-[**netwhat**]: https://github.com/lisy0123/42/tree/master/Cadet_new/netwhat
+[**ft_printf**]: https://github.com/lisy0123/42/blob/master/Cadet_new/ft_printf/README.md
+[**netwhat**]: https://github.com/lisy0123/42/blob/master/Cadet_new/netwhat/README.md
 [*Libft.en.pdf*]: https://github.com/lisy0123/42/blob/master/Cadet_new/PDF/libft.en.pdf
 [*get_next_line.en.pdf*]: https://github.com/lisy0123/42/blob/master/Cadet_new/PDF/get_next_line.en.pdf
 [*ft_printf.en.pdf*]: https://github.com/lisy0123/42/blob/master/Cadet_new/PDF/ft_printf.en.pdf

@@ -21,7 +21,7 @@ Basicly follow rules of **[Norminette]**.
 [42 Silicon Valley]: https://www.42.us.org
 [Norminette]: https://github.com/lisy0123/42/blob/master/norminette.en.pdf
 
-[* Norminette for remote hostname](https://github.com/MrChafeits/42norme)
+[* Norminette for remote hostname](https://github.com/42Paris/norminette)
 
 
 
