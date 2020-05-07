@@ -18,6 +18,8 @@ Basicly follow rules of **[Norminette]**.
 >
 > *etc...*
 
+You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm_errors.md)
+
 [42 Silicon Valley]: https://www.42.us.org
 [Norminette]: https://github.com/lisy0123/42/blob/master/norminette.en.pdf
 
