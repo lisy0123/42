@@ -1,8 +1,8 @@
 # 42 Silicon Valley
 
-**[42 Silicon Valley]** is a college-level, tuition-free, computer programming school with a peer-to-peer learning environment. There are 42 campus around the world, like Paris, Seoul, etc...
+**[42 Silicon Valley](https://www.42.us.org)** is a college-level, tuition-free, computer programming school with a peer-to-peer learning environment. There are 42 campus around the world, like Paris, Seoul, etc...
 
-Basicly follow rules of **[Norminette]**.
+Basicly follow rules of **[Norminette](https://github.com/lisy0123/42/blob/master/norminette.en.pdf)**.
 
 > **Examples of norminette rules**
 >
@@ -19,9 +19,6 @@ Basicly follow rules of **[Norminette]**.
 > *etc...*
 
 You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm_errors.md)
-
-[42 Silicon Valley]: https://www.42.us.org
-[Norminette]: https://github.com/lisy0123/42/blob/master/norminette.en.pdf
 
 [* Norminette for remote hostname](https://github.com/42Paris/norminette)
 
