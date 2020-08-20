@@ -1,5 +1,5 @@
 """
-- Make loading bar
+- Make loading bar. 
 """
 
 import sys
