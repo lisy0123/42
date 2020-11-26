@@ -22,65 +22,30 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 [* Norminette for remote hostname](https://github.com/42Paris/norminette)
 
-
-
 ---
 
-## Cadet (New curriculum) (Apr 14 2020 - )
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Cadet_new/README.md)
-
-
-
----
-
-## Bootcamp Machine Learning (Apr 27 2020 - May 1 2020)
-
-1 week to learn basics in Machine Learning. 
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Bootcamp_machine_learning/README.md)
-
-
-
----
-
-## Bootcamp Python (Apr 13 2020 - Apr 15 2020, Apr 23 2020 - Apr 24 2020)
-
-1 week to learn Python for Machine Learning.
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Bootcamp_python/README.md)
-
-
-
----
-
-## 42 Network Coding Challenge (Apr 14 2020 - Apr 21 2020)
-
-1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge)
-
-
-
----
-
-## Cadet (Old curriculum) (Feb 18 2020 - Mar 11 2020)
-
-It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
-
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Cadet_old/README.md)
-
-
-
----
-
-## Piscine (Oct 2019)
+### [:closed_book: Piscine (Oct 2019)](https://www.42.us.org/program/piscine)
 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
 [📖 More Details](https://github.com/lisy0123/42/blob/master/Piscine/README.md)
 
-[📖 More about Piscine](https://www.42.us.org/program/piscine)
+### [:green_book: Cadet (Old curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_old)
 
+It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
 
+### [:blue_book: Cadet (New curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_new)
 
+It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
+
+### [:books: 42 Network Coding Challenge](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge)
+
+1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
+
+### [:books: Bootcamp Python](https://github.com/lisy0123/42/blob/master/Bootcamp_python)
+
+1 week to learn Python for Machine Learning.
+
+### [:books: Bootcamp Machine Learning](https://github.com/lisy0123/42/blob/master/Bootcamp_machine_learning)
+
+1 week to learn basics in Machine Learning. 
