@@ -24,11 +24,11 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 ---
 
-### [:closed_book: Piscine (Oct 2019)](https://www.42.us.org/program/piscine)
+### [:closed_book: Piscine (Oct 2019)](https://github.com/lisy0123/42/blob/master/Piscine)
 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
-[📖 More Details](https://github.com/lisy0123/42/blob/master/Piscine/README.md)
+[📖 More Details](https://www.42.us.org/program/piscine)
 
 ### [:green_book: Cadet (Old curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_old)
 
