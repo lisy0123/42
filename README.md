@@ -30,11 +30,7 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 ---
 
-<<<<<<< HEAD
 ## [:closed_book: Piscine (Oct 2019)](https://www.42.us.org/program/piscine)
-=======
-### [:closed_book: Piscine (Oct 2019)](https://github.com/lisy0123/42/blob/master/Piscine)
->>>>>>> 8e23a4a8b8f1447b05b36a2947b6d426be3f4c51
 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
@@ -62,8 +58,4 @@ It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the sam
 
 
 
-<<<<<<< HEAD
 [↩️ Go Back](https://github.com/lisy0123/Study)
-=======
-1 week to learn basics in Machine Learning. 
->>>>>>> 8e23a4a8b8f1447b05b36a2947b6d426be3f4c51
