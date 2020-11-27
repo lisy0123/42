@@ -1,4 +1,4 @@
-# Bootcamp Python (Apr 13 2020 - Apr 15 2020, Apr 23 2020 - Apr 24 2020)
+# Bootcamp Python
 
 **1 week to learn Python for Machine Learning.**
 

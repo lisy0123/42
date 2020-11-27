@@ -1,4 +1,4 @@
-# Cadet (New curriculum) (Apr 14 2020 - )
+# Cadet (New curriculum)
 
 Projects that have already done in the previous curriculum will be validated as complete for the new course, without having to resubmit.
 

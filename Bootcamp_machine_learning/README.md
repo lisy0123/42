@@ -1,4 +1,4 @@
-# Bootcamp Machine Learning (Apr 27 2020 - May 1 2020)
+# Bootcamp Machine Learning
 
 **1 week to learn basics in Machine Learning.**
 
