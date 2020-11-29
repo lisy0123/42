@@ -1,13 +1,7 @@
 void	sastantua(int size);
 
-int		main(void)
+int		main(int argc, char **argv)
 {
-	sastantua(0);
-	sastantua(1);
-	sastantua(2);
-	sastantua(3);
-	sastantua(4);
-	sastantua(5);
-	sastantua(7);
+	sastantua((argv[1][0]-48));
 	return (0);
 }
