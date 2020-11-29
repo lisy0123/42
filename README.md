@@ -24,13 +24,17 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 ### Representative project
 
-- **[fillit](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
-- **[fdf](https://github.com/lisy0123/42/tree/master/Cadet_old/fdf)**
-- **[cub3D](https://github.com/lisy0123/42/tree/master/Cadet_new/cub3D)**
+- **[Sastantua (Pyramid pattern) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
+- **[Rush01 (Sudoku) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)**
+- **[Rush02 (Shape detection) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush02/ex00)**
+
+- **[Fillit (Tetriminos) - Cadet_old](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
+- ~~**[Fdf - Cadet old](https://github.com/lisy0123/42/tree/master/Cadet_old/fdf)**~~
+- ~~**[Cub3D - Cadet new](https://github.com/lisy0123/42/tree/master/Cadet_new/cub3D)**~~
 
 ---
 
-## [:closed_book: Piscine (Oct 2019)](https://www.42.us.org/program/piscine)
+## [:closed_book: Piscine (Oct 2019)](https://github.com/lisy0123/42/blob/master/Piscine)
 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
