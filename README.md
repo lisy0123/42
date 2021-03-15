@@ -22,7 +22,7 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 [* Norminette for remote hostname](https://github.com/42Paris/norminette)
 
-### Representative project
+### Recommended project
 
 - **[Sastantua (Pyramid pattern) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
 - **[Rush01 (Sudoku) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)**
