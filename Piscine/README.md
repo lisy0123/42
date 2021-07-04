@@ -2,6 +2,8 @@
 
 To become a student at 42, you must pass the piscine, that have to spend 4 weeks, 7 days a week, day and night coding. 
 
+[📖 More Details](https://www.42.us.org/program/piscine)
+
 | Project            | Topics                                                       | Evaluated by moulinette                                      | Result  | PDF                    |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :-----: | ---------------------- |
 | [**Day 00**]       | `Shell scripting`, `UNIX`                                    | :o::x::o::o::x: :x::o::o::x::x:                              | ~~05%~~ | [*d00.en.pdf*]         |

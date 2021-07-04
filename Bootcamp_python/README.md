@@ -35,6 +35,6 @@ Instead, recommend to follow the [**Pep8 standards**](https://www.python.org/dev
 [day03.pdf]: https://github.com/lisy0123/42/blob/master/Bootcamp_python/PDF/day03.pdf
 [day04.pdf]: https://github.com/lisy0123/42/blob/master/Bootcamp_python/PDF/day04.pdf
 
-
+:bulb: Rechecking...
 
 [↩️ Go Back](https://github.com/lisy0123/42)

@@ -29,8 +29,8 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 - **[Rush02 (Shape detection) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush02/ex00)**
 
 - **[Fillit (Tetriminos) - Cadet_old](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
-- ~~**[Fdf - Cadet old](https://github.com/lisy0123/42/tree/master/Cadet_old/fdf)**~~
-- ~~**[Cub3D - Cadet new](https://github.com/lisy0123/42/tree/master/Cadet_new/cub3D)**~~
+
+**:warning: As the curriculum changed remotely due to CVID-19, the advantage(peer-to-peer learning environment) of 42 got reduced, I stopped. No more updates...**
 
 ---
 
@@ -41,8 +41,6 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 [📖 More Details](https://www.42.us.org/program/piscine)
 
 ## [:green_book: Cadet (Old curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_old)
-
-It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
 
 ## [:blue_book: Cadet (New curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_new)
 
