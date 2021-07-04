@@ -40,23 +40,33 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 
 [📖 More Details](https://www.42.us.org/program/piscine)
 
+---
+
 ## [:green_book: Cadet (Old curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_old)
 
 ## [:blue_book: Cadet (New curriculum)](https://github.com/lisy0123/42/blob/master/Cadet_new)
 
 It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the same time it automatically changed to a new course, that have to start from the beginning, level 0. Projects are slightly different. 
 
+---
+
 ## [:books: 42 Network Coding Challenge](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge)
 
 1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
+
+---
 
 ## [:books: Bootcamp Python](https://github.com/lisy0123/42/blob/master/Bootcamp_python)
 
 1 week to learn Python for Machine Learning.
 
+:bulb: Rechecking...
+
 ## [:books: Bootcamp Machine Learning](https://github.com/lisy0123/42/blob/master/Bootcamp_machine_learning)
 
 1 week to learn basics in Machine Learning. 
+
+:bulb: Rechecking...
 
 
 
