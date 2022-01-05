@@ -24,11 +24,11 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 ### Recommended project
 
-- **[Sastantua (Pyramid pattern) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
-- **[Rush01 (Sudoku) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)**
+- **[Fillit (Tetriminos) - Cadet_old](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
 - **[Rush02 (Shape detection) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush02/ex00)**
 
-- **[Fillit (Tetriminos) - Cadet_old](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
+- **[Rush01 (Sudoku) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)**
+- **[Sastantua (Pyramid pattern) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
 
 **:warning: As the curriculum changed remotely due to CVID-19, the advantage(peer-to-peer learning environment) of 42 got reduced, I stopped. No more updates...**
 

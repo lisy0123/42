@@ -20,11 +20,11 @@ To become a student at 42, you must pass the piscine, that have to spend 4 weeks
 | [**Day 11**]       | `Linked list`                                                | :o::o::o::o::o: :o::o::o::x::o: :o::o::o::o::x: :x::x::x:    |   33%   | [*d11.en.pdf*]         |
 | [**Day 12**]       | `Makefile`, `File manipulation`, `Program composition`       | :o::x::x::x::x:                                              |   35%   | [*d12.en.pdf*]         |
 | [**Day 13**]       | `Binary search tree`, `Red-Black tree`                       | :o::o::o::o::x: :o::o::x::x::x:                              |   30%   | [*d13.en.pdf*]         |
-| [**Sastantua**]    | `Pattern printing`                                           | :o:                                                          |  100%   | [*sastantua.en.pdf*]   |
+| [**Sastantua**]    | `Pyramid Pattern printing`                                   | :o:                                                          |  100%   | [*sastantua.en.pdf*]   |
 | [**Match/nmatch**] | `String recursion`                                           | :x::o:                                                       | ~~00%~~ | [*matchnmatch.en.pdf*] |
 | [**Evalexpr**]     | `Makefile`, `Math expression`, `Basic syntax tree`           | :o:                                                          |  100%   | [*evalexpr.en.pdf*]    |
 | [**Rush 00**]      | `Pattern printing`                                           | -                                                            |  100%   | [*rush00.en.pdf*]      |
-| [**Rush 01**]      | `Recursive`, `Backtracking`                                  | -                                                            |   96%   | [*rush01.en.pdf*]      |
+| [**Rush 01**]      | `Sudoku`, `Recursive`, `Backtracking`                        | -                                                            |   96%   | [*rush01.en.pdf*]      |
 | [**Rush 02**]      | `Makefile`, `Shape detection`                                | -                                                            |  100%   | [*rush02.en.pdf*]      |
 | [**BSQ**]          | `Makefile`, `Optimization algorithme`                        | :x::x:                                                       | ~~00%~~ | [*bsq.en.pdf*]         |
 
