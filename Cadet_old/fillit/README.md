@@ -2,6 +2,11 @@
 
 > **[*fillit.en.pdf*](https://github.com/lisy0123/42/blob/master/Cadet_old/PDF/fillit.en.pdf)**
 
+| **Language** | C                                               |
+| :----------: | ----------------------------------------------- |
+|  **Topics**  | `Tetriminos`, `Backtracking`, `Time complexity` |
+|  **Result**  | **100/100**                                     |
+
 ### Example
 
 ```bash
@@ -104,11 +109,6 @@ HHHDDG$
 .HDD.G$
 ```
 
----
 
-| **Language** | C                                               |
-| :----------: | ----------------------------------------------- |
-|  **Topics**  | `Tetriminos`, `Backtracking`, `Time complexity` |
-|  **Result**  | **100/100**                                     |
 
 [↩️ Go Back](https://github.com/lisy0123/42/tree/master/Cadet_old)

@@ -2,6 +2,11 @@
 
 > **[*sastantua.en.pdf*](https://github.com/lisy0123/42/blob/master/Piscine/PDF/sastantua.en.pdf)**
 
+| **Language** | C                          |
+| :----------: | -------------------------- |
+|  **Topics**  | `Pyramid Pattern printing` |
+|  **Result**  | **100/100**                |
+
 ### Example
 
 ```bash
@@ -54,11 +59,6 @@
 /********************************|||||********************************\
 ```
 
----
 
-| **Language** | C                          |
-| :----------: | -------------------------- |
-|  **Topics**  | `Pyramid Pattern printing` |
-|  **Result**  | **100/100**                |
 
 [↩️ Go Back](https://github.com/lisy0123/42/tree/master/Piscine)

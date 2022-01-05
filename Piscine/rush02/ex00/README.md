@@ -2,6 +2,11 @@
 
 > **[*rush02.en.pdf*](https://github.com/lisy0123/42/blob/master/Piscine/PDF/rush02.en.pdf)**
 
+| **Language** | C                             |
+| :----------: | ----------------------------- |
+|  **Topics**  | `Makefile`, `Shape detection` |
+|  **Result**  | **100/100**                   |
+
 ### Example
 
 ```bash
@@ -40,12 +45,7 @@ A
 [colle-02] [1] [1] || [colle-03] [1] [1] || [colle-04] [1] [1]
 ```
 
----
 
-| **Language** | C                             |
-| :----------: | ----------------------------- |
-|  **Topics**  | `Makefile`, `Shape detection` |
-|  **Result**  | **100/100**                   |
 
 [↩️ Go Back](https://github.com/lisy0123/42/tree/master/Piscine)
 

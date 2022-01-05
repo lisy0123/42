@@ -2,6 +2,11 @@
 
 > **[*rush01.en.pdf*](https://github.com/lisy0123/42/blob/master/Piscine/PDF/rush01.en.pdf)**
 
+| **Language** | C                                     |
+| :----------: | ------------------------------------- |
+|  **Topics**  | `Sudoku`, `Recursive`, `Backtracking` |
+|  **Result**  | **96/100**                            |
+
 ### Example
 
 ```bash
@@ -25,12 +30,7 @@ Error$
 4 7 2 1 6 8 9 3 5$
 ```
 
----
 
-| **Language** | C                                     |
-| :----------: | ------------------------------------- |
-|  **Topics**  | `Sudoku`, `Recursive`, `Backtracking` |
-|  **Result**  | **96/100**                            |
 
 [↩️ Go Back](https://github.com/lisy0123/42/tree/master/Piscine)
 
