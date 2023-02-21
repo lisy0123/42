@@ -28,9 +28,9 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 ## 🗂️ Preview
 
-- [**Vector: Built-in functions & Unittest**](https://github.com/lisy0123/42/tree/master/Bootcamp_python/d01/ex02) |  **[Blur: Normalization](https://github.com/lisy0123/42/blob/master/Bootcamp_python/d03/ex04)**
+- **[Blur: Normalization](https://github.com/lisy0123/42/tree/master/Bootcamp_python/d01/ex02)  |  [Vector: Built-in functions & Unittest](https://github.com/lisy0123/42/tree/master/Bootcamp_python/d03/ex04)**
 
-- **[Rush01: Sudoku](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)** | **[Fillit: Tetriminos](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)** | **[Sastantua: Pyramid pattern](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
+- **[Fillit: Tetriminos](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)  |  [Rush01: Sudoku](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)   |  [Sastantua: Pyramid pattern](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
 
 ---
 
