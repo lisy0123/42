@@ -2,10 +2,11 @@
 
 > **[*rush01.en.pdf*](https://github.com/lisy0123/42/blob/master/Piscine/PDF/rush01.en.pdf)**
 
-| **Language** | C                                     |
-| :----------: | ------------------------------------- |
-|  **Topics**  | `Sudoku`, `Recursive`, `Backtracking` |
-|  **Result**  | **96/100**                            |
+| **Language** | C                                       |
+| :----------: | --------------------------------------- |
+|  **Topics**  | `Sudoku`, `Recursive`, `Backtracking`   |
+|   **Goal**   | Create a program that resolves a Sudoku |
+|  **Result**  | **96/100**                              |
 
 ### Example
 

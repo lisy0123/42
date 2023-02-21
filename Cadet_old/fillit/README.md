@@ -5,6 +5,7 @@
 | **Language** | C                                               |
 | :----------: | ----------------------------------------------- |
 |  **Topics**  | `Tetriminos`, `Backtracking`, `Time complexity` |
+|   **Goal**   | Create a program that resolves a Tetriminos     |
 |  **Result**  | **100/100**                                     |
 
 ### Example

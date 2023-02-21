@@ -106,7 +106,7 @@ class AdvancedFilter():
 		return(res)
 
 
-def test_filters(image):
+def test_filters():
 	img_processor = ImageProcessor()
 	advanced_filter = AdvancedFilter()
 	image = img_processor.load("../resources/42AI.png")
@@ -118,4 +118,4 @@ def test_filters(image):
 	
 
 if __name__ == "__main__":
-	test_filters(image)
+	test_filters()

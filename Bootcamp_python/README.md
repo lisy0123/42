@@ -2,7 +2,7 @@
 
 ### Preview
 
-- [**Vector: Built-in functions & Unittest**]() | **[Blur: Normalization]()**
+- [**Vector: Built-in functions & Unittest**](https://github.com/lisy0123/42/tree/master/Bootcamp_python/d01/ex02) | **[Blur: Normalization](https://github.com/lisy0123/42/blob/master/Bootcamp_python/d03/ex04)**
 
 ---
 

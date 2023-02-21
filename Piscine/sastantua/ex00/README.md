@@ -2,10 +2,11 @@
 
 > **[*sastantua.en.pdf*](https://github.com/lisy0123/42/blob/master/Piscine/PDF/sastantua.en.pdf)**
 
-| **Language** | C                          |
-| :----------: | -------------------------- |
-|  **Topics**  | `Pyramid Pattern printing` |
-|  **Result**  | **100/100**                |
+| **Language** | C                                                            |
+| :----------: | ------------------------------------------------------------ |
+|  **Topics**  | `Pyramid Pattern printing`                                   |
+|   **Goal**   | Create a function that displays Sastantua's pyramid on screen |
+|  **Result**  | **100/100**                                                  |
 
 ### Example
 
