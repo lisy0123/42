@@ -1,5 +1,5 @@
 """
-- Make loading bar. 
+Make loading bar. 
 """
 
 import sys
@@ -13,5 +13,6 @@ def progressBar(value, endvalue, bar_length=20):
 	time.sleep(0.05)
 	sys.stdout.flush()
 
-for i in range(0,101):
-	progressBar(i,100)
+if __name__ == "__main__":
+	for i in range(0,101):
+		progressBar(i,100)

@@ -1,10 +1,7 @@
 '''
-- Create a function called text_analyzer
-    that dispplays the sums of upper characters, lower characters,
-    puncuation characters and spaces in a given text.
-- Takes 1 parameter, the text to analyze.
-- If there is no text passed to the function,
-    the user is prompted to give one.
+Create a function called text_analyzer that dispplays the sums of upper characters, lower characters, puncuation characters and spaces in a given text.
+Takes 1 parameter, the text to analyze.
+If there is no text passed to the function, the user is prompted to give one.
 '''
 
 import string

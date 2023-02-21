@@ -22,15 +22,15 @@ You can check [**Norm errors.**](https://github.com/lisy0123/42/blob/master/Norm
 
 [* Norminette for remote hostname](https://github.com/42Paris/norminette)
 
-### Recommended project
-
-- **[Fillit (Tetriminos) - Cadet_old](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)**
-- **[Rush02 (Shape detection) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush02/ex00)**
-
-- **[Rush01 (Sudoku) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)**
-- **[Sastantua (Pyramid pattern) - Piscine](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
-
 **:warning: As the curriculum changed remotely due to CVID-19, the advantage(peer-to-peer learning environment) of 42 got reduced, I stopped. No more updates...**
+
+---
+
+## 🗂️ Preview
+
+- [**Vector: Built-in functions & Unittest**]() |  **[Blur: Normalization]()**
+
+- **[Rush01: Sudoku](https://github.com/lisy0123/42/tree/master/Piscine/rush01/ex00)** | **[Fillit: Tetriminos](https://github.com/lisy0123/42/tree/master/Cadet_old/fillit)** | **[Sastantua: Pyramid pattern](https://github.com/lisy0123/42/tree/master/Piscine/sastantua/ex00)**
 
 ---
 
@@ -52,15 +52,13 @@ It was converted into a remote study from 13 Apr 2020 due to CVID-19. At the sam
 
 ## [:books: 42 Network Coding Challenge](https://github.com/lisy0123/42/blob/master/42_Network_coding_challenge)
 
-1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [CodinGame website](https://www.codingame.com).*
+1 week coding challenge with a project *named [**Fantastic bits**](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits), based on [**CodinGame website**](https://www.codingame.com).*
 
 ---
 
 ## [:books: Bootcamp Python](https://github.com/lisy0123/42/blob/master/Bootcamp_python)
 
 1 week to learn Python for Machine Learning.
-
-:bulb: Rechecking...
 
 ## [:books: Bootcamp Machine Learning](https://github.com/lisy0123/42/blob/master/Bootcamp_machine_learning)
 

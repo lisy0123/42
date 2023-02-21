@@ -1,11 +1,11 @@
 """
-- Make a function which encodes strings into Morse code. 
-- Accept all alphanumeric characters.
+Make a function which encodes strings into Morse code. 
+Accept all alphanumeric characters.
 """
 
 import sys
 
-dic_morse = {
+DIC_MORSE = {
 	'a' : ".-", 'b' : "-...", 'c' : "-.-.", 'd' : "-..",
     'e' : ".", 'f' : "..-.", 'g' : "--.", 'h' : "....",
 	'i' : "..", 'j' : ".---", 'k' : "-.-", 'l' : ".-..",
@@ -18,17 +18,18 @@ dic_morse = {
 	'8' : "---..", '9' : "----."
 }
 
-try:
-	STR=[]
-	STR1=""
-	for i in range(1, len(sys.argv)):
-		STR = STR + (str)(sys.argv[i]).split()
-#	print("{}".format(STR))
-	for j in range(len(STR)):
-		for c in STR[j].lower():
-			STR1 = STR1 + "".join([dic_morse[c]]) + " "
-		if j != len(STR)-1:
-			STR1 = STR1 + "/ "
-	print("{}".format(STR1))
-except:
-	print("ERROR")
+
+if __name__ == '__main__':
+	try:
+		STR=[]
+		STR1=""
+		for i in range(1, len(sys.argv)):
+			STR = STR + (str)(sys.argv[i]).split()
+		for j in range(len(STR)):
+			for c in STR[j].lower():
+				STR1 = STR1 + "".join([DIC_MORSE[c]]) + " "
+			if j != len(STR)-1:
+				STR1 = STR1 + "/ "
+		print(STR1)
+	except:
+		print("ERROR")

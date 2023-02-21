@@ -1,5 +1,5 @@
 """
-- Using the language dictionary.
+Using the language dictionary.
 """
 
 LAN = {
@@ -8,6 +8,7 @@ LAN = {
     'PHP': 'Rasmus Lerdorf',
     }
 
-print("language = {}".format(LAN))
-for i in LAN:
-    print("{} was created by {}".format(i, LAN[i]))
+if __name__ == '__main__':
+	print("language =", LAN)
+	for i in LAN:
+		print(i, "was created by", LAN[i])

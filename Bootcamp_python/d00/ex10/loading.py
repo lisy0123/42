@@ -1,5 +1,5 @@
 """
-- Make loading bar, using yield operator. 
+Make loading bar, using yield operator. 
 """
 
 from time import sleep
@@ -19,18 +19,20 @@ def ft_progress(lst):
 	print("ETA: {0:5.2f}s [{1:3d}%][{2:20.20s}] {3}/{4} | elapsed time {5:5.2f}s".format(eta, percent, bar, i+1, len(lst), t))
 	print("...", end='')
 
-listy = range(1000)
-ret = 0
-for elem in ft_progress(listy):
-	ret += (elem + 3) % 5
-	sleep(0.01) 
-print()
-print(ret)
 
-listy = range(3333)
-ret = 0
-for elem in ft_progress(listy):
-	ret += elem
-	sleep(0.005)
-print()
-print(ret)
+if __name__ == "__main__":
+	listy = range(1000)
+	ret = 0
+	for elem in ft_progress(listy):
+		ret += (elem + 3) % 5
+		sleep(0.01) 
+	print()
+	print(ret)
+
+	listy = range(3333)
+	ret = 0
+	for elem in ft_progress(listy):
+		ret += elem
+		sleep(0.005)
+	print()
+	print(ret)
